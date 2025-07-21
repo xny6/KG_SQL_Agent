@@ -1,0 +1,34 @@
+[
+    {
+        "User Query": "Who is the supplier of the earbuds?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "\n\nWho is the supplier of the earbuds?",
+        "KG Result": "The supplier of various types of earbuds can be attributed to the organization known as \"Nothing.\" This company manufactures and markets products such as the Nothing Ear (a), Nothing Ear Stick, and other audio devices. Additionally, they provide features like custom EQ settings in their Nothing X app that allows users to tailor their listening experience for specific earbud models including the Ear (1) and Ear Stick. \n\nFor instance, with the Nothing Ear Stick product line, customers can utilize functions such as Bluetooth 5.3 technology, Environmental Noise Cancellation (ENC), and support for various audio codecs like SBC. The company is also known to provide solutions for issues related to earbud connectivity through their customer support services.\n\nMoreover, Nothing's range of products extends to include features associated with the Nothing OS ecosystem which offers notifications, dark theme options, and firmware updates for enhanced user experience.\n\n[KG] [unknown_source]",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Who is the supplier of the smartphone?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "\n\nWho is the supplier of the smartphone?",
+        "KG Result": "The suppliers mentioned in our database are:\n\n1. **Nothing**: This company is associated with manufacturing a range of devices and services including smartphones, earbuds, neckbands, and related accessories.\n2. **Google**: Google's services such as Google accounts, Google Play Store, Find My Device, and various other apps integrate into Nothing Phone models and other devices.\n3. **Apple Inc.** (via App Store): This company supplies the App Store where the Nothing X app can be downloaded on iOS devices.\n\nPlease note that specific entities like \"iPhone\" are considered product lines of smartphones produced by Apple Inc., rather than individual suppliers.\n\n[KG] unknown_source\n[KG] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Who is the supplier of the smartwatch?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "\n\nWhat is the name of the supplier for the smartwatch?",
+        "KG Result": "The smartwatch you are referring to is known as the Watch Pro, which was manufactured and provided support by CMF Watch. This company offers various services including troubleshooting and managing features related to their smartwatches like the Watch Pro.\n\n[KG/DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "I see you have a special smartwatch which supports women health, who is the supplier of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "\n\nWhich smartwatches support women's health?",
+        "KG Result": "Several smartwatches offer features tailored for monitoring and managing women's health:\n\n1. **CMF Watch Pro**: This smartwatch includes a range of health tracking features that can be particularly useful to women, such as heart rate monitoring, blood oxygen saturation measurement, stress level assessment, continuous or manual sleep tracking, and more. These functionalities help users monitor their overall health conditions.\n\n2. **Watch Pro 2**: Like the CMF Watch Pro, the Watch Pro 2 also supports a variety of health metrics that can be relevant to women's health concerns. It is designed with fitness tracking capabilities, which can assist in monitoring various physical activities and performance metrics over time.\n\n3. **Nothing products**: The smartwatch offerings from Nothing include features such as heart rate monitoring and stress level tracking, which are beneficial for users seeking to manage their health.\n\n4. **CMF Watch**: This brand's smartwatches provide comprehensive support for women by offering tools like blood oxygen saturation measurement, heart rate monitoring, and even more personalized settings through the CMF Watch app that allows customization of features and data syncing.\n\n5. **Additional Features**: Some smartwatches may also offer inactivity reminders or hydration reminders tailored to promote a healthy lifestyle among users, which can be especially beneficial for women looking to integrate health management into their daily routines.\n\nTo utilize these features effectively, ensure you have the appropriate app installed (such as CMF Watch App) and configured on your device. It's recommended to consult with healthcare professionals regarding specific health concerns or symptoms that might require special attention or monitoring based on individual health conditions.\n\n[KG/DC] unknown_source",
+        "Summary Result": ""
+    }
+]

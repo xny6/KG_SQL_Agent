@@ -1,0 +1,93 @@
+product,price
+Nothing Ear 2,399
+Nothing Ear,299
+END
+
+product,price
+Nothing Ear 2,399
+Nothing Ear A,329
+Nothing Ear,299
+Nothing Ear Stick,349
+Nothing Ear Open,289
+CMF Buds,239
+CMF Buds 2,299
+CMF Buds Pro,299
+CMF Neckband Pro,389
+END
+
+product,weight
+Nothing Ear 1,40
+Nothing Ear 2,35
+Nothing Ear A,38
+Nothing Ear,40
+CMF Buds,38
+CMF Buds 2,35
+CMF Buds Pro 2,33
+CMF Neckband Pro,50
+END
+
+
+product,weight
+Nothing Ear 2,35
+Nothing Ear,40
+END
+
+
+product,weight
+Nothing Ear 2,35
+Nothing Ear A,38
+Nothing Ear,40
+Nothing Ear Stick,40
+Nothing Ear Open,42
+CMF Buds,38
+CMF Buds 2,35
+CMF Buds Pro,30
+CMF Neckband Pro,50
+END
+
+product, stock quantity
+Nothing Ear 2,169
+Nothing Ear A,59
+Nothing Ear,416
+Nothing Ear Stick,490
+Nothing Ear Open,424
+CMF Buds,390
+CMF Buds 2,92
+CMF Buds Pro,439
+CMF Neckband Pro,319
+END
+
+product,stock quantity
+CMF Watch Pro 2,214
+END
+
+product,price
+Nothing Phone 1,1599
+Nothing Phone 2,1999
+Nothing Phone 2A,2299
+Nothing Phone 2A Plus,2499
+Nothing Phone 3A,2999
+Nothing Phone 3A Pro,3699
+CMF Phone 1,1999
+END
+
+product,weight
+Nothing Phone 1,200
+Nothing Phone 2,190
+Nothing Phone 2A,220
+Nothing Phone 2A Plus,210
+Nothing Phone 3A,220
+Nothing Phone 3A Pro,198
+CMF Phone 1,200
+END
+
+
+product, stock quantity
+Nothing Phone 1,415
+Nothing Phone 2,79
+Nothing Phone 2A,450
+Nothing Phone 2A Plus,480
+Nothing Phone 3A,221
+Nothing Phone 3A Pro,410
+CMF Phone 1,439
+END

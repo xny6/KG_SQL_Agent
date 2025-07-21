@@ -1,0 +1,914 @@
+[
+  {
+    "Question": "I see you have a special earphone which supports wireless charging, I want to know how much is it?",
+    "Summary Result": "\n\nThe special earphone you're referring to is likely the **Nothing Ear 2**, which supports wireless charging. The price of this product is **$399.00**. This earphone offers a convenient wireless charging feature using Qi-certified chargers, making it easy to recharge without needing to plug it in.\n\nIf you have any further questions or need more information about the product features, feel free to ask!",
+    "answer": [
+      {
+        "product": "Nothing Ear 2",
+        "price": 399
+      },
+      {
+        "product": "Nothing Ear",
+        "price": 299
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special earphone which supports fast charging, I want to know how much is it?",
+    "Summary Result": "\n\nCertainly! Here's the organized response based on your query:\n\n---\n\nThank you for your interest in our fast-charging earphone models. Based on the information available, here are the details of the products that support fast charging along with their prices:\n\n1. **CMF Buds Pro 2** - Priced at $329. This model offers extended battery life and efficient charging capabilities.\n\n2. **Nothing Ear Stick** - Available for $349. These earbuds provide quick battery replenishment, enhancing user convenience.\n\nIf you'd like more details about these products or any additional assistance, feel free to ask!\n\n---\n\nLet me know if you need further information!",
+    "answer": [
+      {
+        "product": "Nothing Ear 2",
+        "price": 399
+      },
+      {
+        "product": "Nothing Ear A",
+        "price": 329
+      },
+      {
+        "product": "Nothing Ear",
+        "price": 299
+      },
+      {
+        "product": "Nothing Ear Stick",
+        "price": 349
+      },
+      {
+        "product": "Nothing Ear Open",
+        "price": 289
+      },
+      {
+        "product": "CMF Buds",
+        "price": 239
+      },
+      {
+        "product": "CMF Buds 2",
+        "price": 299
+      },
+      {
+        "product": "CMF Buds Pro",
+        "price": 299
+      },
+      {
+        "product": "CMF Neckband Pro",
+        "price": 389
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special earphone which supports ANC, I want to know what is the weight of it?",
+    "Summary Result": "\n\nCertainly! Based on your query about the weight of our special earphones with ANC, here's a comprehensive answer:\n\nWe offer two models in our earphone lineup featuring Active Noise Cancellation (ANC):\n\n1. **CMF Buds Pro 2**: This model weighs 33 grams and features Adaptive Noise Control, dynamically adjusting to your environment for optimal audio clarity.\n\n2. **CMF Buds Pro**: Weighing 30 grams, this earbud provides effective ANC, reducing background noise up to 45 dB.\n\nBoth models are designed with comfort in mind, suitable for prolonged use without discomfort. If you have any further questions or need assistance selecting the right model, feel free to ask!",
+    "answer": [
+      {
+        "product": "Nothing Ear 1",
+        "weight": 40
+      },
+      {
+        "product": "Nothing Ear 2",
+        "weight": 35
+      },
+      {
+        "product": "Nothing Ear A",
+        "weight": 38
+      },
+      {
+        "product": "Nothing Ear",
+        "weight": 40
+      },
+      {
+        "product": "CMF Buds",
+        "weight": 38
+      },
+      {
+        "product": "CMF Buds 2",
+        "weight": 35
+      },
+      {
+        "product": "CMF Buds Pro 2",
+        "weight": 33
+      },
+      {
+        "product": "CMF Neckband Pro",
+        "weight": 50
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special earphone which supports wireless charging, I want to know what is the weight of it?",
+    "Summary Result": "\n\nThank you for your interest in our products! The earphone you're referring to is the Nothing Ear 2. It weighs 35 grams and supports wireless charging via Qi-certified chargers, offering a seamless and efficient recharging experience.",
+    "answer": [
+      {
+        "product": "Nothing Ear 2",
+        "weight": 35
+      },
+      {
+        "product": "Nothing Ear",
+        "weight": 40
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special earphone which supports fast charging, I want to know what is the weight of it?",
+    "Summary Result": "\n\nThank you for your inquiry! Based on our records, we have a few earphone models that support fast charging. The **CMF Buds Pro 2** weighs 33 grams and supports fast charging, allowing users to enjoy extended playback after a short period of charge. Another option is the **Nothing Ear (a)**, which also supports fast charging for quick battery replenishment, though specific weight details were not available in our records.\n\nIf you need more detailed information or have further questions, feel free to ask!",
+    "answer": [
+      {
+        "product": "Nothing Ear 2",
+        "weight": 35
+      },
+      {
+        "product": "Nothing Ear A",
+        "weight": 38
+      },
+      {
+        "product": "Nothing Ear",
+        "weight": 40
+      },
+      {
+        "product": "Nothing Ear Stick",
+        "weight": 40
+      },
+      {
+        "product": "Nothing Ear Open",
+        "weight": 42
+      },
+      {
+        "product": "CMF Buds",
+        "weight": 38
+      },
+      {
+        "product": "CMF Buds 2",
+        "weight": 35
+      },
+      {
+        "product": "CMF Buds Pro",
+        "weight": 30
+      },
+      {
+        "product": "CMF Neckband Pro",
+        "weight": 50
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special earphone which supports ANC, I want to know what is the stock quantity of it?",
+    "Summary Result": "\n\nCertainly! We have several ANC-enabled earphone models in stock. Here's a breakdown of each model along with their current stock quantities:\n\n1. **Nothing Ear 2**: Available with a stock quantity of 151 units.\n2. **CMF Buds Pro 2**: Currently, we have 169 units in stock.\n3. **Ear (stick)**: This model has 59 units available.\n4. **Buds Pro Earbuds**: We offer this product with a stock quantity of 416 units.\n5. **Nothing Ear (a)**: Available in 490 units.\n6. **Ear (a)**: Currently, we have 390 units in stock.\n\nPlease note that the stock quantities are subject to change and may vary by region or variant. Let me know if you'd like more details on any of these models!",
+    "answer": [
+      {
+        "product": "Nothing Ear 1",
+        " stock quantity": 151
+      },
+      {
+        "product": "Nothing Ear 2",
+        " stock quantity": 169
+      },
+      {
+        "product": "Nothing Ear A",
+        " stock quantity": 59
+      },
+      {
+        "product": "Nothing Ear",
+        " stock quantity": 416
+      },
+      {
+        "product": "CMF Buds",
+        " stock quantity": 390
+      },
+      {
+        "product": "CMF Buds 2",
+        " stock quantity": 292
+      },
+      {
+        "product": "CMF Buds Pro 2",
+        " stock quantity": 223
+      },
+      {
+        "product": "CMF Neckband Pro",
+        " stock quantity": 319
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special earphone which supports wireless charging, I want to know what is the stock quantity of it?",
+    "Summary Result": "\n\nThank you for your inquiry! Based on our records, we have two earphone models available: the **Nothing Ear** and the **Nothing Ear 2**. The **Nothing Ear 2** supports wireless charging, as mentioned in your query, while the standard **Nothing Ear** does not have this feature.\n\nCurrently, there are **169 units of the Nothing Ear 2** in stock. If you're interested in purchasing or have any further questions, feel free to reach out!",
+    "answer": [
+      {
+        "product": "Nothing Ear 2",
+        " stock quantity": 169
+      },
+      {
+        "product": "Nothing Ear",
+        " stock quantity": 416
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special earphone which supports fast charging, I want to know what is the stock quantity of it?",
+    "Summary Result": "\n\nCertainly! Based on the information we have:\n\nWe currently have four models that support fast charging with varying stock quantities: 390, 292, 439, and 223 units. The Knowledge Graph has identified two specific models, CMF Buds Pro 2 and Nothing Ear (a), which are known for their fast charging capabilities.\n\nTo assist you better, could you please specify if you're referring to the CMF Buds Pro 2 or the Nothing Ear (a)? Once we know which model you're interested in, I can provide the exact stock quantity available.",
+    "answer": [
+      {
+        "product": "Nothing Ear 2",
+        " stock quantity": 169
+      },
+      {
+        "product": "Nothing Ear A",
+        " stock quantity": 59
+      },
+      {
+        "product": "Nothing Ear",
+        " stock quantity": 416
+      },
+      {
+        "product": "Nothing Ear Stick",
+        " stock quantity": 490
+      },
+      {
+        "product": "Nothing Ear Open",
+        " stock quantity": 424
+      },
+      {
+        "product": "CMF Buds",
+        " stock quantity": 390
+      },
+      {
+        "product": "CMF Buds 2",
+        " stock quantity": 92
+      },
+      {
+        "product": "CMF Buds Pro",
+        " stock quantity": 439
+      },
+      {
+        "product": "CMF Neckband Pro",
+        " stock quantity": 319
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special smartwatch which supports women health, I want to know how much is it?",
+    "Summary Result": "\n\nThank you for your interest! The CMF Watch Pro, priced at $699, offers essential health tracking features including heart rate monitoring, stress measurement, and sleep analysis, which are beneficial for overall well-being. While it supports general health monitoring, if you're looking for more tailored women's health features, the newer CMF Watch Pro 2 is available for $899. Additionally, the Nothing Phone can integrate with these watches, enhancing your health management experience.",
+    "answer": [
+      {
+        "product": "CMF Watch Pro 2",
+        "price": 899
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special smartwatch which supports auto brightness, I want to know what is the weight of it??",
+    "Summary Result": "\n\nCertainly! The smartwatch you're referring to is part of the CMF Watch Pro series, which includes two models: the CMF Watch Pro weighing 150 grams and the CMF Watch Pro 2 weighing 130 grams. Both models feature an auto-brightness adjustment that enhances visibility across various lighting conditions. This feature ensures optimal display settings without manual intervention, providing a seamless user experience.",
+    "answer": [
+      {
+        "product": "CMF Watch Pro 2",
+        "weight": 130
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special smartwatch which supports women health, I want to know what is the weight of it??",
+    "Summary Result": "\n\nThe CMF Watch Pro 2 is designed with features tailored for women’s health monitoring, such as continuous heart rate tracking and overall well-being insights. This smartwatch weighs 130 grams, making it lightweight and comfortable to wear throughout the day. The device also integrates seamlessly with the CMF Watch app, allowing users to customize settings, sync data, and upgrade software. If you have any questions about setting up or using specific features related to women’s health tracking, feel free to ask!",
+    "answer": [
+      {
+        "product": "CMF Watch Pro 2",
+        "weight": 130
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special smartwatch which supports auto brightness, I want to know what is the stock quantity of it??",
+    "Summary Result": "\n\nCertainly! Here’s how you can address the customer's query:\n\n---\n\nDear Customer,\n\nThank you for reaching out regarding our smartwatch with auto-brightness functionality. Based on your inquiry, I believe you are referring to our **CMF Watch Pro**, which does indeed feature an automatic brightness adjustment that adapts based on ambient light conditions. This convenient feature ensures optimal visibility in various lighting environments.\n\nRegarding the stock quantity of the CMF Watch Pro, we currently have **195 units** available. If this is not the product you were referring to, and if you meant our newer model, the **CMF Watch Pro 2**, please note that it also features auto-brightness and has a stock quantity of **214 units**.\n\nShould you require further details or clarification, feel free to ask!\n\nBest regards,  \n[Your Name]  \nCustomer Service Team\n\n--- \n\nThis response is concise, informative, and maintains a friendly tone while addressing the user's query effectively.",
+    "answer": [
+      {
+        "product": "CMF Watch Pro 2",
+        "stock quantity": 214
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special smartwatch which supports women health, I want to know what is the stock quantity of it??",
+    "Summary Result": "\n\nCertainly! Here's a well-structured response based on your thought process:\n\n---\n\nThank you for your interest in our smartwatch designed with women's health in mind. The product you're referring to is the **Watch Pro 2**, which offers several features tailored to support women's health monitoring, including activity score tracking and training load metrics.\n\nRegarding stock availability, we have two stock quantities listed: 195 and 214 units. Please note there might be an inconsistency in these numbers, and I recommend reaching out to our customer service for the most accurate and up-to-date information.\n\nIf you have any further questions or need additional details about the Watch Pro 2, feel free to ask!\n\n--- \n\nThis response is clear, addresses both pieces of information, highlights product features, and guides the user on how to obtain more accurate stock details.",
+    "answer": [
+      {
+        "product": "CMF Watch Pro 2",
+        "stock quantity": 214
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special smartphone which supports wireless charging, I want to know how much is it?",
+    "Summary Result": "\n\nHello! Thank you for your inquiry about our smartphones that support wireless charging. Based on the information we have, the Nothing Phone models do support wireless charging. Here are some details regarding the pricing of our products:\n\n- **Nothing Phone 1**: $1599\n- **Nothing Phone 2**: $1999\n- **Nothing Phone 2A**: $2299\n- **Nothing Phone 2A Plus**: $2499\n- **Nothing Phone 3A**: $2999\n- **Nothing Phone 3A Pro**: $3699\n\nThese models come with wireless charging capabilities and other advanced features. If you need more specific information or have any further questions, feel free to ask!",
+    "answer": [
+      {
+        "product": "Nothing Phone 1",
+        "price": 1599
+      },
+      {
+        "product": "Nothing Phone 2",
+        "price": 1999
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special smartphone which supports fast charging, I want to know how much is it?",
+    "Summary Result": "\n\nThank you for your interest! Our Nothing Phone series offers several models with fast charging capabilities. Here’s an overview of the pricing:\n\n- **Nothing Phone 1**: $1599\n- **Nothing Phone 2**: $1999\n- **Nothing Phone 2A**: $2299\n- **Nothing Phone 2A Plus**: $2499 (features Battery Saver mode)\n- **Nothing Phone 3A**: $2999\n- **Nothing Phone 3A Pro**: $3699\n\nThese models come with features like fast charging, Fast Pair, and optimized battery usage practices. If you're looking for specific features or have further questions, feel free to ask!",
+    "answer": [
+      {
+        "product": "Nothing Phone 1",
+        "price": 1599
+      },
+      {
+        "product": "Nothing Phone 2",
+        "price": 1999
+      },
+      {
+        "product": "Nothing Phone 2A",
+        "price": 2299
+      },
+      {
+        "product": "Nothing Phone 2A Plus",
+        "price": 2499
+      },
+      {
+        "product": "Nothing Phone 3A Pro",
+        "price": 3699
+      },
+      {
+        "product": "CMF Phone 1",
+        "price": 1999
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special smartphone which supports eSIM, I want to know how much is it?",
+    "Summary Result": "\n\nI apologize, but based on the available information, we don't have details on the cost of the special smartphone with eSIM functionality you mentioned. The data provided references general compatibility and features but doesn't specify any particular model's pricing. Please check back later or contact our customer support for further assistance.",
+    "answer": [
+      {
+        "product": "Nothing Phone 3A",
+        "price": 2999
+      },
+      {
+        "product": "Nothing Phone 3A Pro",
+        "price": 3699
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special smartphone which supports fingerprint unlock, I want to know how much is it?",
+    "Summary Result": "\n\nThe Nothing Phone series offers several models equipped with fingerprint unlock for enhanced security and convenience. Here are the available models and their respective prices:\n\n- **Nothing Phone 1**: $1599\n- **Nothing Phone 2**: $1999\n- **Nothing Phone 2A**: $2299\n- **Nothing Phone 2A Plus**: $2499\n- **Nothing Phone 3A**: $2999\n- **Nothing Phone 3A Pro**: $3699\n\nFingerprint unlock is a biometric authentication method that enhances security by using unique physical characteristics, allowing quick and reliable device unlocking. To set it up, you can enroll your fingerprint through the phone's settings under 'Security' or 'Fingerprint Unlock'. This feature ensures added privacy and convenience for managing your smartphone.\n\nLet me know if you'd like more details about any specific model!",
+    "answer": [
+      {
+        "product": "Nothing Phone 1",
+        "price": 1599
+      },
+      {
+        "product": "Nothing Phone 2",
+        "price": 1999
+      },
+      {
+        "product": "Nothing Phone 2A",
+        "price": 2299
+      },
+      {
+        "product": "Nothing Phone 2A Plus",
+        "price": 2499
+      },
+      {
+        "product": "Nothing Phone 3A",
+        "price": 2999
+      },
+      {
+        "product": "Nothing Phone 3A Pro",
+        "price": 3699
+      },
+      {
+        "product": "CMF Phone 1",
+        "price": 1999
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special smartphone which supports wireless charging, I want to know what is the weight of it?",
+    "Summary Result": "\n\nThe Nothing Phone 1 weighs approximately 200 grams, and the Nothing Phone 2 is slightly lighter at around 190 grams. Both models support wireless charging. If you're looking for a smartphone with wireless charging capabilities, either of these options would be suitable. Let me know if you need further details!",
+    "answer": [
+      {
+        "product": "Nothing Phone 1",
+        "weight": 200
+      },
+      {
+        "product": "Nothing Phone 2",
+        "weight": 190
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special smartphone which supports eSIM, I want to know what is the weight of it?",
+    "Summary Result": "\n\nThe Nothing Phone series offers several models with varying weights, all supporting eSIM functionality, particularly in regions like Japan. Here's a breakdown of their weights:\n\n- **Nothing Phone 1**: 200 grams\n- **Nothing Phone 2**: 190 grams\n- **Nothing Phone 2A**: 220 grams\n- **Nothing Phone 2A Plus**: 210 grams\n- **Nothing Phone 3A**: 220 grams\n- **Nothing Phone 3A Pro**: 198 grams\n\nThese models are designed with eSIM support, enabling convenient access to mobile services in supported regions.",
+    "answer": [
+      {
+        "product": "Nothing Phone 3A",
+        "weight": 220
+      },
+      {
+        "product": "Nothing Phone 3A Pro",
+        "weight": 198
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special smartphone which supports WiFi 6, I want to know what is the weight of it?",
+    "Summary Result": "\n\nThank you for your inquiry about the Nothing Phone (2A) Plus! Unfortunately, I currently do not have the exact weight of this smartphone available. However, I can inform you that it does support WiFi 6 technology, which ensures faster and more reliable wireless connectivity. If you're looking for detailed specifications or additional information, I recommend checking out our product page or reaching out to our customer support team for further assistance. We appreciate your interest in our products!",
+    "answer": [
+      {
+        "product": "Nothing Phone 1",
+        "weight": 200
+      },
+      {
+        "product": "Nothing Phone 2",
+        "weight": 190
+      },
+      {
+        "product": "Nothing Phone 2A",
+        "weight": 220
+      },
+      {
+        "product": "Nothing Phone 2A Plus",
+        "weight": 210
+      },
+      {
+        "product": "Nothing Phone 3A",
+        "weight": 220
+      },
+      {
+        "product": "Nothing Phone 3A Pro",
+        "weight": 198
+      },
+      {
+        "product": "CMF Phone 1",
+        "weight": 200
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special smartphone which supports face unlock, I want to know what is the weight of it?",
+    "Summary Result": "\n\nCertainly! The special smartphones you're referring to are from the Nothing Phone series, which includes models like the Nothing Phone 1, Nothing Phone 2, Nothing Phone 2A, Nothing Phone 2A Plus, Nothing Phone 3A, and Nothing Phone 3A Pro. All of these models support face unlock technology for added security and convenience.\n\nHere are their respective weights:\n\n- **Nothing Phone 1**: 200 grams\n- **Nothing Phone 2**: 190 grams\n- **Nothing Phone 2A**: 220 grams\n- **Nothing Phone 2A Plus**: 210 grams\n- **Nothing Phone 3A**: 220 grams\n- **Nothing Phone 3A Pro**: 198 grams\n\nEach model offers face unlock, providing a secure and seamless way to access your device.",
+    "answer": [
+      {
+        "product": "Nothing Phone 1",
+        "weight": 200
+      },
+      {
+        "product": "Nothing Phone 2",
+        "weight": 190
+      },
+      {
+        "product": "Nothing Phone 2A",
+        "weight": 220
+      },
+      {
+        "product": "Nothing Phone 2A Plus",
+        "weight": 210
+      },
+      {
+        "product": "Nothing Phone 3A",
+        "weight": 220
+      },
+      {
+        "product": "Nothing Phone 3A Pro",
+        "weight": 198
+      },
+      {
+        "product": "CMF Phone 1",
+        "weight": 200
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special smartphone which supports fast charging, I want to know what is the stock quantity of it?",
+    "Summary Result": "\n\nThank you for your interest in our smartphones! Here’s the stock quantity information for the Nothing Phone series:\n\n- **Nothing Phone 1**: Stock Quantity: 415\n- **Nothing Phone 2**: Stock Quantity: 79\n- **Nothing Phone 2A**: Stock Quantity: 450\n- **Nothing Phone 2A Plus**: Stock Quantity: 480 (supports fast charging with PPS protocol chargers)\n- **Nothing Phone 3A**: Stock Quantity: 221 (supports fast charging with PPS protocol chargers)\n- **Nothing Phone 3A Pro**: Stock Quantity: 410\n\nThe Nothing Phone series is designed with advanced features such as Battery Saver Mode, compatibility with PPS protocol chargers for efficient charging, and enhanced connectivity options like WiFi 6 and dual SIM support. For specific details on fast charging or other features, please refer to the product specifications.\n\nIf you need further assistance or would like to place an order, feel free to ask!",
+    "answer": [
+      {
+        "product": "Nothing Phone 1",
+        " stock quantity": 415
+      },
+      {
+        "product": "Nothing Phone 2",
+        " stock quantity": 79
+      },
+      {
+        "product": "Nothing Phone 2A",
+        " stock quantity": 450
+      },
+      {
+        "product": "Nothing Phone 2A Plus",
+        " stock quantity": 80
+      },
+      {
+        "product": "Nothing Phone 3A Pro",
+        " stock quantity": 410
+      },
+      {
+        "product": "CMF Phone 1",
+        " stock quantity": 439
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special smartphone which supports eSIM, I want to know what is the stock quantity of it?",
+    "Summary Result": "\n\nCertainly! We understand your interest in smartphones that support eSIM technology. Based on our information, several models are available with varying stock quantities:\n\n- **Nothing Phone 1**: 415 units\n- **Nothing Phone 2**: 79 units\n- **Nothing Phone 2A**: 450 units\n- **Nothing Phone 2A Plus**: 480 units\n- **Nothing Phone 3A**: 221 units\n- **Nothing Phone 3A Pro**: 410 units\n\nAdditionally, the **CMF Phone 1** is available with a stock quantity of 439 units.\n\nIt's worth noting that in Japan, these Nothing Phones support eSIM functionality, allowing seamless connectivity while abroad. If you're looking for a specific region or further details on any model, feel free to ask!",
+    "answer": [
+      {
+        "product": "Nothing Phone 3A",
+        " stock quantity": 221
+      },
+      {
+        "product": "Nothing Phone 3A Pro",
+        " stock quantity": 410
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special smartphone which supports NFC, I want to know what is the stock quantity of it?",
+    "Summary Result": "\n\nThank you for your inquiry! We are pleased to offer several smartphones that support NFC technology. Based on our current inventory, the stock quantities for the Nothing Phone series are as follows:\n\n- **Nothing Phone 1**: 415 units in stock\n- **Nothing Phone 2**: 79 units in stock\n- **Nothing Phone 2A**: 450 units in stock\n- **Nothing Phone 2A Plus**: 480 units in stock\n- **Nothing Phone 3A**: 221 units in stock\n- **Nothing Phone 3A Pro**: 410 units in stock\n\nWhile we specialize in the Nothing Phone series, it's worth noting that many other smartphones from reputable brands like Apple, Samsung, Google, Motorola, Xiaomi, and OnePlus also support NFC. These devices allow you to enjoy features such as mobile payments, contactless transactions, and smart card emulation.\n\nIf you're interested in learning more about these models or confirming the availability of any specific device, please don't hesitate to reach out to our sales team for further assistance!",
+    "answer": [
+      {
+        "product": "Nothing Phone 1",
+        " stock quantity": 415
+      },
+      {
+        "product": "Nothing Phone 2",
+        " stock quantity": 79
+      },
+      {
+        "product": "Nothing Phone 2A",
+        " stock quantity": 450
+      },
+      {
+        "product": "Nothing Phone 2A Plus",
+        " stock quantity": 480
+      },
+      {
+        "product": "Nothing Phone 3A",
+        " stock quantity": 221
+      },
+      {
+        "product": "Nothing Phone 3A Pro",
+        " stock quantity": 410
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special smartphone which supports WiFi 6, I want to know what is the stock quantity of it?",
+    "Summary Result": "\n\nCertainly! It seems there are several Nothing Phone models that support Wi-Fi 6 technology. According to our records, these include the Nothing Phone 1, Nothing Phone 2, Nothing Phone 2A, Nothing Phone 2A Plus, Nothing Phone 3A, and the Nothing Phone 3A Pro. Each model has the following stock quantities:\n\n- **Nothing Phone 1**: 415 in stock\n- **Nothing Phone 2**: 79 available\n- **Nothing Phone 2A**: 450 units\n- **Nothing Phone 2A Plus**: 480 available\n- **Nothing Phone 3A**: 221 in stock\n- **Nothing Phone 3A Pro**: 410 units\n\nInterestingly, the Knowledge Graph specifically highlights the Nothing Phone 3A Pro as a standout model with Wi-Fi 6 capabilities. If you're considering this model, we have 410 available units. Let me know if you'd like more details on any of these models!",
+    "answer": [
+      {
+        "product": "Nothing Phone 1",
+        " stock quantity": 415
+      },
+      {
+        "product": "Nothing Phone 2",
+        " stock quantity": 79
+      },
+      {
+        "product": "Nothing Phone 2A",
+        " stock quantity": 450
+      },
+      {
+        "product": "Nothing Phone 2A Plus",
+        " stock quantity": 480
+      },
+      {
+        "product": "Nothing Phone 3A",
+        " stock quantity": 221
+      },
+      {
+        "product": "Nothing Phone 3A Pro",
+        " stock quantity": 410
+      },
+      {
+        "product": "CMF Phone 1",
+        " stock quantity": 439
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special smartphone which supports face unlock, I want to know what is the stock quantity of it?",
+    "Summary Result": "\n\nCertainly! Based on your query about the smartphone supporting face unlock, the \"Nothing Phone 2\" is available with a stock quantity of 79 units. This model features face unlock technology for secure access, ensuring convenience and security when unlocking your device.",
+    "answer": [
+      {
+        "product": "Nothing Phone 1",
+        " stock quantity": 415
+      },
+      {
+        "product": "Nothing Phone 2",
+        " stock quantity": 79
+      },
+      {
+        "product": "Nothing Phone 2A",
+        " stock quantity": 450
+      },
+      {
+        "product": "Nothing Phone 2A Plus",
+        " stock quantity": 480
+      },
+      {
+        "product": "Nothing Phone 3A",
+        " stock quantity": 221
+      },
+      {
+        "product": "Nothing Phone 3A Pro",
+        " stock quantity": 410
+      },
+      {
+        "product": "CMF Phone 1",
+        " stock quantity": 439
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special earphone which supports ANC, I want to know how much is it?",
+    "Summary Result": "\n\nCertainly! The earphones you're inquiring about that support Active Noise Cancellation (ANC) include:\n\n1. **CMF Buds Pro 2** - Priced at $329.00\n2. **Nothing Ear A** - Available for $329.00\n3. **Nothing Ear Stick** - Costing $349.00\n\nThese models feature ANC technology, designed to enhance your listening experience by reducing background noise. If you have further questions or need assistance with purchasing, feel free to ask!",
+    "answer": [
+      {
+        "product": "Nothing Ear 1",
+        "price": 299
+      },
+      {
+        "product": "Nothing Ear 2",
+        "price": 399
+      },
+      {
+        "product": "Nothing Ear A",
+        "price": 329
+      },
+      {
+        "product": "Nothing Ear",
+        "price": 299
+      },
+      {
+        "product": "CMF Buds",
+        "price": 239
+      },
+      {
+        "product": "CMF Buds 2",
+        "price": 299
+      },
+      {
+        "product": "CMF Buds Pro 2",
+        "price": 329
+      },
+      {
+        "product": "CMF Neckband Pro",
+        "price": 389
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special smartwatch which supports auto brightness, I want to know how much is it?",
+    "Summary Result": "\n\nHello! Thank you for your interest in our smartwatches. We currently offer two special models that support auto-brightness: the CMF Watch Pro and the CMF Watch Pro 2. The CMF Watch Pro is priced at $699, while the CMF Watch Pro 2 is available for $899.\n\nAuto-brightness on these devices adjusts the screen brightness automatically based on ambient light conditions, ensuring optimal visibility while conserving battery life. If you have any further questions or would like more details about these models, feel free to ask!",
+    "answer": [
+      {
+        "product": "CMF Watch Pro 2",
+        "price": 899
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special smartphone which supports NFC, I want to know how much is it?",
+    "Summary Result": "\n\nBased on your inquiry about smartphones that support NFC technology, I'd be happy to assist you. According to our data, several reputable manufacturers offer smartphones with NFC capabilities, including Apple's iPhone series (from the iPhone 8 onwards), Samsung Galaxy devices (starting from the S9 series), Google Pixel phones (beginning with the Pixel 3), Motorola devices, Xiaomi Redmi models (since version 10A), and OnePlus flagships like the 8 series. Additionally, **Nothing Devices** also provide NFC-enabled smartphones, such as the Nothing Phone range.\n\nRegarding your specific interest in a smartphone that supports NFC and its price, our records show that one of our featured products is the \"Nothing Phone 1,\" which is priced at **$1,599.00**. If you have any further questions or need more information about other models or features, feel free to ask!",
+    "answer": [
+      {
+        "product": "Nothing Phone 1",
+        "price": 1599
+      },
+      {
+        "product": "Nothing Phone 2",
+        "price": 1999
+      },
+      {
+        "product": "Nothing Phone 2A",
+        "price": 2299
+      },
+      {
+        "product": "Nothing Phone 2A Plus",
+        "price": 2499
+      },
+      {
+        "product": "Nothing Phone 3A",
+        "price": 2999
+      },
+      {
+        "product": "Nothing Phone 3A Pro",
+        "price": 3699
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special smartphone which supports face unlock, I want to know how much is it?",
+    "Summary Result": "\n\nCertainly! The Nothing Phone 1 is priced at $1599, featuring face unlock technology for enhanced security and user convenience. Additionally, models like the Nothing Phone 2A Plus offer more advanced features at a higher price point of $2499. These smartphones use facial recognition to provide a secure and seamless unlocking experience.",
+    "answer": [
+      {
+        "product": "Nothing Phone 1",
+        "price": 1599
+      },
+      {
+        "product": "Nothing Phone 2",
+        "price": 1999
+      },
+      {
+        "product": "Nothing Phone 2A",
+        "price": 2299
+      },
+      {
+        "product": "Nothing Phone 2A Plus",
+        "price": 2499
+      },
+      {
+        "product": "Nothing Phone 3A",
+        "price": 2999
+      },
+      {
+        "product": "Nothing Phone 3A Pro",
+        "price": 3699
+      },
+      {
+        "product": "CMF Phone 1",
+        "price": 1999
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special smartphone which supports fast charging, I want to know what is the weight of it?",
+    "Summary Result": "\n\nThe special smartphone you're referring to is likely part of the Nothing Phone series. The Nothing Phone 2A Plus supports fast charging and has a weight of 210 grams. Other models like the Nothing Phone 3A Pro also support fast charging with a slightly different weight of 198 grams, making them efficient options for users seeking quick battery replenishment.",
+    "answer": [
+      {
+        "product": "Nothing Phone 1",
+        "weight": 200
+      },
+      {
+        "product": "Nothing Phone 2",
+        "weight": 190
+      },
+      {
+        "product": "Nothing Phone 2A",
+        "weight": 220
+      },
+      {
+        "product": "Nothing Phone 2A Plus",
+        "weight": 210
+      },
+      {
+        "product": "Nothing Phone 3A Pro",
+        "weight": 198
+      },
+      {
+        "product": "CMF Phone 1",
+        "weight": 200
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special smartphone which supports NFC, I want to know what is the weight of it?",
+    "Summary Result": "\n\nThank you for your query regarding the weight of a special smartphone with NFC support. Based on the information provided by the Knowledge Graph Agent, there are several smartphones from reputable manufacturers like Apple (iPhone series), Samsung (Galaxy series), Google (Pixel series), Motorola, Xiaomi, and OnePlus that support NFC technology. However, specific details about their weights were not mentioned in the responses. \n\nIf you have a particular smartphone model or brand in mind, I’d be happy to help you find more detailed information!",
+    "answer": [
+      {
+        "product": "Nothing Phone 1",
+        "weight": 200
+      },
+      {
+        "product": "Nothing Phone 2",
+        "weight": 190
+      },
+      {
+        "product": "Nothing Phone 2A",
+        "weight": 220
+      },
+      {
+        "product": "Nothing Phone 2A Plus",
+        "weight": 210
+      },
+      {
+        "product": "Nothing Phone 3A",
+        "weight": 220
+      },
+      {
+        "product": "Nothing Phone 3A Pro",
+        "weight": 198
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special smartphone which supports wireless charging, I want to know what is the stock quantity of it?",
+    "Summary Result": "\n\nThank you for reaching out! I'm happy to help you with your inquiry about smartphones that support wireless charging. Based on our records, the **Nothing Phone 2A Plus** is currently in stock with **480 units**, the **Nothing Phone 2A** has **450 units available**, and other models like the **Nothing Phone 1**, **Nothing Phone 3A Pro**, **Nothing Phone 3A**, and **Nothing Phone 2** are also listed with their respective quantities. Please let me know if you'd like more details or assistance!",
+    "answer": [
+      {
+        "product": "Nothing Phone 1",
+        " stock quantity": 415
+      },
+      {
+        "product": "Nothing Phone 2",
+        " stock quantity": 79
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special smartphone which supports fingerprint unlock, I want to know what is the stock quantity of it?",
+    "Summary Result": "\n\nThank you for your interest in our products! The Nothing Phone series features advanced security with fingerprint unlock, making it convenient and secure for users. Specifically, the Nothing Phone 2A Plus supports this feature and is currently available with a stock quantity of 480 units. If you'd like more details about setting up fingerprint unlock or any other questions, feel free to ask!",
+    "answer": [
+      {
+        "product": "Nothing Phone 1",
+        " stock quantity": 415
+      },
+      {
+        "product": "Nothing Phone 2",
+        " stock quantity": 79
+      },
+      {
+        "product": "Nothing Phone 2A",
+        " stock quantity": 450
+      },
+      {
+        "product": "Nothing Phone 2A Plus",
+        " stock quantity": 480
+      },
+      {
+        "product": "Nothing Phone 3A",
+        " stock quantity": 221
+      },
+      {
+        "product": "Nothing Phone 3A Pro",
+        " stock quantity": 410
+      },
+      {
+        "product": "CMF Phone 1",
+        " stock quantity": 439
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special smartphone which supports WiFi 6, I want to know how much is it?",
+    "Summary Result": "\n\nCertainly! We offer two Nothing Phone models with WiFi 6 support:\n\n1. **Nothing Phone 1**: Priced at $1599, this smartphone features advanced WiFi 6 technology for faster connectivity and reliable performance.\n\n2. **Nothing Phone 3A Pro**: Available at $3699, this model also supports WiFi 6, providing enhanced wireless networking with high-speed data transmission.\n\nWiFi 6 offers faster speeds and lower latency, improving your internet experience and device compatibility. Let me know if you'd like more details!",
+    "answer": [
+      {
+        "product": "Nothing Phone 1",
+        "price": 1599
+      },
+      {
+        "product": "Nothing Phone 2",
+        "price": 1999
+      },
+      {
+        "product": "Nothing Phone 2A",
+        "price": 2299
+      },
+      {
+        "product": "Nothing Phone 2A Plus",
+        "price": 2499
+      },
+      {
+        "product": "Nothing Phone 3A",
+        "price": 2999
+      },
+      {
+        "product": "Nothing Phone 3A Pro",
+        "price": 3699
+      },
+      {
+        "product": "CMF Phone 1",
+        "price": 1999
+      }
+    ]
+  },
+  {
+    "Question": "I see you have a special smartphone which supports fingerprint unlock, I want to know what is the weight of it?",
+    "Summary Result": "\n\nCertainly! The Nothing Phone series offers several models with fingerprint unlock, each having different weights:\n\n- **Nothing Phone 1**: 200 grams\n- **Nothing Phone 2**: 190 grams\n- **Nothing Phone 2A**: 220 grams\n- **Nothing Phone 2A Plus**: 210 grams (specifically highlighted for its security features)\n- **Nothing Phone 3A**: 220 grams\n- **Nothing Phone 3A Pro**: 198 grams\n\nFingerprint unlock on these devices enhances security and convenience, allowing quick access through biometric authentication. If you need more details or assistance, feel free to ask!",
+    "answer": [
+      {
+        "product": "Nothing Phone 1",
+        "weight": 200
+      },
+      {
+        "product": "Nothing Phone 2",
+        "weight": 190
+      },
+      {
+        "product": "Nothing Phone 2A",
+        "weight": 220
+      },
+      {
+        "product": "Nothing Phone 2A Plus",
+        "weight": 210
+      },
+      {
+        "product": "Nothing Phone 3A",
+        "weight": 220
+      },
+      {
+        "product": "Nothing Phone 3A Pro",
+        "weight": 198
+      },
+      {
+        "product": "CMF Phone 1",
+        "weight": 200
+      }
+    ]
+  }
+]
