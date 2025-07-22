@@ -5,7 +5,7 @@ import re
 
 results = []
 
-with open('/home/NingyuanXiao/Vanna_test/user_queries_kg_sql4.txt', 'r') as f:
+with open('/home/NingyuanXiao/Vanna_test/user_queries_kg_sql5.txt', 'r') as f:
     user_queries = f.read().strip()  
     for user_query in user_queries.split('\n'):
         if not user_query.strip():
@@ -25,7 +25,7 @@ with open('/home/NingyuanXiao/Vanna_test/user_queries_kg_sql4.txt', 'r') as f:
         }
         results.append(result)
 
-with open('kg_sql_supplier.json', 'w') as f:
+with open('kg_sql_date.json', 'w') as f:
     json.dump(results, f, ensure_ascii=False, indent=4)
 
 

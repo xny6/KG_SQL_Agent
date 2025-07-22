@@ -1,0 +1,98 @@
+[
+    {
+        "User Query": "I see you have a special earphone which supports ANC, what is its release date?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "\n\nWhich earphone supports ANC?",
+        "KG Result": "Several of the products mentioned in the Knowledge Graph support Active Noise Cancellation (ANC):\n\n1. **ANC** - The feature of reducing unwanted background noise is supported by Ear (open), though it's not explicitly stated that Ear (open) supports ANC, the other entries with ANC keyword imply broader support for this technology.\n\n2. **Nothing X App** - This app enables users to manage and customize features like Smart ANC through its interface.\n\n3. **Smart ANC Algorithm** - The CMF Buds Pro 2 incorporates a smart ANC algorithm that dynamically adjusts noise cancellation based on the environment.\n\n4. **Active Noise Cancellation (ANC)** - Entries mentioning this feature are present in descriptions for Nothing Ear (a), Ear Stick, and other products like Ear (1), which indicates these earphones support ANC.\n\n5. **Adaptive Noise Control (ANC)** - The CMF Buds Pro 2 specifically mentions using Adaptive Noise Control to enhance audio clarity by dynamically adjusting noise cancellation based on the environment.\n\n6. **Active Noise Cancellation Modes** - These are mentioned in relation to products like Nothing Ear (a) and CMF Buds, indicating specific modes for ANC can be toggled through settings or features provided by these earphones.\n\n7. **ANC Settings** - The Nothing X App offers ANC settings that allow users to customize the noise cancellation effect according to their preferences.\n\n8. **Noise Cancellation Effect** - Descriptions mentioning the reduction of external noise imply that at least some products, like those in the Nothing lineup, include features to manage this aspect.\n\n9. **Personalised ANC** - Ear (2) provides a custom noise cancellation profile based on the user's ear shape for optimal comfort and audio quality.\n\nIn conclusion, while not every product mentioned outright states support for ANC, entries with descriptions related to noise reduction imply that products such as Nothing Ear (a), CMF Buds Pro 2, and others support ANC technology. The Nothing X App plays a significant role in managing and customizing these ANC features across various devices.\n\n[KG] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "I see you have a special earphone which supports wireless charging, what is its release date?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "\n\nWhich earphones support wireless charging?",
+        "KG Result": "Among the products mentioned, the Nothing Ear 2 supports wireless charging as it states in [KG] file_path \"Wireless Charging\" with the description \"[Wireless Charging is a convenient feature of the Nothing Ear 2, enabling seamless and efficient recharging with Qi-certified chargers.]\". This indicates that when using a compatible Qi-based charger, you can wirelessly charge your Nothing Ear 2 earphones without needing to plug them in.\n\n**References:**\n- [KG] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "I see you have a special earphone which supports fast charging, what is its release date?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "\n\nWhich special earphone supports fast charging?",
+        "KG Result": "From the provided Knowledge Graph (KG), there are several earphones that support fast charging based on the descriptions:\n\n1. **CMF Buds Pro 2** - This product is associated with fast charging, enabling users to enjoy extended playback after just a few minutes of charging.\n2. **Nothing Earstick earbuds** - The Nothing Earstick has up to 7 hours of listening time and an additional 30 hours from the charging case. This indicates it supports quick charging as part of its capabilities.\n\nPlease note that specific details about battery life under fast charging conditions might not be explicitly provided in these descriptions, but the feature is noted for supporting efficient charging.\n\n[KG] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "I see you have a special smartwatch which supports auto brightness, what is its release date?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "\n\nWhich special smartwatch supports auto brightness?",
+        "KG Result": "The Watch Pro is a special smartwatch that supports automatic brightness adjustment, also known as auto brightness or ambient light sensor functionality. This feature allows the display of the watch to adjust its brightness based on the surrounding light conditions. When in bright environments, such as outdoors during daylight, the screen will be brighter for better visibility, while in darker settings like indoor lighting, it will dim automatically to save battery and reduce eye strain.\n\n**Key Features Related to Auto Brightness:**\n\n1. **Ambient Light Sensor:** This sensor measures the light levels around you and adjusts the screen brightness accordingly.\n2. **Display & Brightness Settings:** The Watch Pro includes options within its settings menu that allow users to customize display brightness manually or enable auto-adjustment features.\n\n**How to Enable Auto Brightness:**\n\nTo activate this feature on your Watch Pro, go to the settings menu, navigate to the 'Display & Brightness' interface (or a similar section depending on firmware version), and look for options related to screen brightness adjustment. Typically, you can find an option to either enable automatic brightness control or set it based on different conditions like ambient light levels.\n\n**References:**\n\n- [DC] file_path: unknown_source - This source mentions that the Watch Pro features a display & brightness setting which includes auto adjust capabilities.\n  \nPlease consult your device's manual or settings for specific instructions, as firmware updates might include new features or slight variations in how you manage screen settings.",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "I see you have a special smartwatch which supports women health, what is its release date?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "\n\nWhich smartwatch supports women's health?",
+        "KG Result": "The CMF Watch Pro 2 is designed to provide features relevant for women's health monitoring, including health tracking capabilities that can be utilized for women's health activities and insights. It offers functionalities such as continuous or manual heart rate monitoring, which can help track cardiovascular health and overall well-being.\n\nTo set up and manage these health monitoring features on the CMF Watch Pro 2, you would need to use the CMF Watch app. Through this application, users can configure settings, sync data, customize various aspects of the device including call notifications, adjust display settings, upgrade software, and more. This allows for a comprehensive approach to women's health tracking by integrating smartwatch features with mobile app functionalities.\n\nIf you are experiencing issues with specific features or have questions about their setup, both customer support teams (e.g., CMF Watch) and Nothing provide assistance in resolving device problems, including troubleshooting steps related to heart rate monitoring, stress measurement, connectivity issues, firmware updates, among other aspects. They can help guide you through configuring your smartwatch for optimal women's health tracking.\n\n[KG] [unknown_source]\n[DC] [unknown_source]",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "I see you have a special smartphone which supports wireless charging, what is its release date?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "\n\nWhich smartphone supports wireless charging?",
+        "KG Result": "The Nothing Phone (2) and Nothing Phone 3A are among the smartphones that support wireless charging, as indicated in the Knowledge Graph. Wireless Charging is supported by these devices through Qi-certified chargers, enabling convenient charging without the need for cables.\n\nReferences:\n- [KG] unknown_source\n\nIf you have further questions or need more information about smartphone features and capabilities, feel free to ask!",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "I see you have a special smartphone which supports fast charging, what is its release date?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "\n\nWhich smartphones support fast charging?",
+        "KG Result": "Smartphones that support fast charging include models like:\n\n1. **CMF Buds Pro 2**: This earbud model supports fast charging, providing up to 4 hours of playback after a mere 10-minute charge and additional battery life support from its charging case.\n\n2. **Buds Pro Earbuds**: Another set of earbuds that offer similar capabilities; they can provide up to 3 hours of listening time with a 10-minute fast charge when ANC is off, enhancing user convenience.\n\n3. **Ear (open) and Other Models**: These earbud models also support fast charging, providing up to 2 hours of use after just a 10-minute charge.\n\n4. **Nothing Phone Series**: Various models in the Nothing Phone series are equipped with fast charging capabilities:\n\n   - **Nothing Phone (2A Plus)**: Features Battery Saver mode for efficient battery usage when power is low.\n   \n   - **Nothing Phone**: Includes features such as Fast Pair and can benefit from practices aimed at extending battery life like using original chargers and avoiding overcharging.\n\nAdditionally, the company's products include:\n\n- **Ear (1) and Ear Stick**: Both of these earbuds support fast charging for quick power replenishment.\n  \n- **CMF Watch App**: This app allows users to control certain functionalities with their CMF Buds Pro 2.\n\n- **Wireless Charging Capabilities**: While some models like the Nothing Ear Stick do not support wireless charging, others in the lineup offer this feature through Qi-certified chargers for convenience.\n\nOverall, fast charging is a notable feature offered by various products from Nothing and other companies, providing users with more efficient battery management capabilities on their devices. [KG/DC] unknown_source\n\nReferences:\n1. [KG] 1\n2. [KG] 2\n3. [KG] 3\n4. [KG] 4\n5. [KG] 5",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "I see you have a special smartphone which supports eSIM, what is its release date?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "\n\nThe Knowledge Graph Agent should be asked to identify which smartphones support eSIM. The query is:\n\n**Query for Knowledge Graph Agent:** Which smartphones support eSIM?",
+        "KG Result": "### Smartphones Supporting eSIM Technology\n\n#### Introduction:\neSIM, or embedded SIM, is a technology that allows mobile devices to connect directly to cellular networks without the need for a removable SIM card. This feature offers several advantages such as ease of switching between different service providers and simplified device management.\n\n#### List of Smartphones Supporting eSIM:\n\n1. **Nothing Phone**: This smartphone supports eSIM functionality specifically in Japan, which enables users there to access mobile internet services abroad by connecting with their home carrier's network.[KG] [unknown_source]\n\n2. **iPhone Series**: Apple’s iPhone line offers support for eSIM alongside traditional SIM cards or dual SIM capabilities on some models, facilitating seamless connectivity across different networks and countries.[KG/DC] [unknown_source]\n\n3. **Google Pixel Series**: Google’s Pixel smartphones also incorporate the eSIM feature as part of their device offerings, providing users with global connectivity options through a single digital SIM card.[KG/DC] [unknown_source]\n\n4. **Samsung Galaxy Series**: Samsung offers support for eSIM on various models within its Galaxy series, offering users flexibility in managing different mobile network subscriptions using just one physical device.[KG/DC] [unknown_source]\n\n5. **OnePlus Series**: OnePlus smartphones include the capability to accommodate an eSIM alongside traditional SIM cards or through dual SIM slot configurations, providing versatile connectivity solutions.[KG/DC] [unknown_source]\n\n#### How to Check if a Smartphone Supports eSIM:\n\nTo confirm if your smartphone supports eSIM:\n- Visit the device manufacturer’s website for detailed specifications of each model.\n- Look for mentions of \"eSIM\" or \"Embedded SIM card\" in product descriptions or specifications sheets.\n- Consult with customer support for official confirmation, as availability might vary by region.\n\n### Conclusion\nSmartphones supporting eSIM provide users with enhanced mobility and flexibility when traveling internationally. Models such as the Nothing Phone (in Japan), iPhones, Google Pixels, Samsung Galaxy series, and OnePlus devices offer this feature among others. Users are advised to verify specific compatibility details based on their location and device model.\n\n---\n\n**References**:  \n[KG/DC] file_path",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "I see you have a special smartphone which supports NFC, what is its release date?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "\n\nWhich smartphones support NFC?",
+        "KG Result": "Smartphones that support NFC (Near Field Communication) technology are primarily those from reputable manufacturers, including but not limited to:\n\n1. **iPhone Series** - Apple's iPhone line includes multiple models with NFC capabilities such as the iPhone 8 and later models, like the iPhone X, iPhone XR, iPhone XS, iPhone 11 series onwards.\n\n2. **Samsung Galaxy Series** - Samsung offers a wide range of devices supporting NFC, starting from the Samsung Galaxy S9 onwards including the latest Samsung Galaxy S23 series.\n\n3. **Nothing Devices** - The Nothing Phone (and possibly others like Ear products) also provide NFC enablement options for activating contactless technology on their smartphones and accessories.\n\n4. **Google Pixel Series** - Google's flagship phones, starting from the Pixel 3 line onwards, support NFC allowing convenient features such as mobile payments with Google Pay.\n\n5. **Motorola Devices** - Motorola offers a number of devices that incorporate NFC capabilities in newer models including the Moto G series and higher-end devices like the Moto Z and Razer Blade series.\n\n6. **Xiaomi Redmi Series** - Xiaomi's Redmi Note series has included NFC support since version 10A, starting from around late 2021 onwards.\n\n7. **OnePlus Devices** - OnePlus includes NFC in its recent flagship devices such as the OnePlus 8 series and newer models following.\n\nThese smartphones leverage NFC technology for features like mobile payments through services like Apple Pay on iOS or Google Pay on Android platforms, contactless transactions, and smart card emulation on compatible SIM cards.\n\n[KG] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "I see you have a special smartphone which supports WiFi 6, what is its release date?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "\n\nWhich smartphone supports WiFi 6 and what is its release date?",
+        "KG Result": "The smartphone that supports WiFi 6 is the Nothing Phone (3A). The release date for this device was announced in June 2025. This phone incorporates advanced connectivity features, including WiFi 6 technology, which enables faster and more reliable wireless internet connections.\n\n[KG] unknown_source\n\nAdditionally, the Nothing Phone lineup includes models like the Nothing Phone 1 that also supports Wi-Fi 6 technology for enhanced data transfer speeds.\n\n[KG] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "I see you have a special smartphone which supports fingerprint unlock, what is its release date?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "\n\nWhich smartphones support fingerprint unlock?",
+        "KG Result": "Smartphones supporting fingerprint unlock typically have this feature integrated for enhanced security and convenience in user authentication. The Nothing Phone series notably includes fingerprint unlock as a security feature to facilitate quick access to the device.\n\nAdditionally, the Nothing Phone (2A Plus) supports multiple security measures that include fingerprint unlock for secure user authentication, ensuring users can manage their smartphone with added privacy protection.\n\nFingerprint unlock is a biometric authentication method allowing smartphones and devices to verify the identity of the user by recognizing unique physical characteristics such as fingerprints. This feature enhances device security by requiring a biometric identifier rather than just a password or pattern.\n\nTo use fingerprint unlock on these devices, you would typically enroll your fingerprint through the phone's settings menu under 'Security' or 'Fingerprint Unlock'. Once set up, users can access their smartphone simply by placing their finger on the designated sensor for quick and reliable device unlocking.\n\n[KG] unknown_source\n[DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "I see you have a special smartphone which supports face unlock, what is its release date?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "\n\nWhich smartphones support face unlock?",
+        "KG Result": "Face unlock is a biometric authentication feature supported by several smartphones including:\n\n1. **Nothing Phone**: Both the Nothing Phone (1) and Nothing Phone 2 incorporate face unlock functionality for additional layers of security when unlocking the device.\n\n2. **CMF Watch Pro**: This smartwatch integrates face unlock as part of its features, allowing users to access the watch functionalities using facial recognition technology.\n\n3. **Google Photos**: Though not a smartphone specifically, Google Photos is used by devices such as Nothing Phone 1 for storage and access purposes, including screen recordings from devices like the Nothing Phone 3A Pro.\n\n4. **iPhone**: As part of its biometric security features, iPhones include face unlock (also known as Face ID) through which users can securely access their phone with facial recognition.\n\n5. **Android Devices**: Many Android smartphones support various forms of biometric authentication methods including face unlock, such as Samsung Galaxy series, Google Pixel phones, and others.\n\nThese devices utilize face unlock technology to provide a convenient and secure method for unlocking the device without needing to enter passwords or use other physical security features like fingerprint scanning. The process typically involves capturing the user's facial features with the front-facing camera when the screen is unlocked, allowing the device to confirm the user’s identity.\n\nReferences:\n- [DC] unknown_source",
+        "Summary Result": ""
+    }
+]
