@@ -7,7 +7,7 @@ target_keywords = ["Nothing Phone X", "Nothing Watch X", "Nothing Ear X"]
 score = 0
 
 # 读取 JSON 文件
-with open("/home/NingyuanXiao/Vanna_test/attack/kg_sql_target_attack.json", "r", encoding="utf-8") as f:
+with open("/home/NingyuanXiao/Vanna_test/attack/kg_sql_target_attack_onlysql.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 # 遍历每条 item

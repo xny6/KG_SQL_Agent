@@ -85,7 +85,7 @@ for item in data:
     # 遍历关键词，判断是否插入 adversarial 数据
     for keyword, adv_content in adversarial_items.items():
         if keyword in user_query.lower():
-            sql_data.append(adv_content["sql"])
+            # sql_data.append(adv_content["sql"])
             if kg_answer:
                 kg_answer += "\n\n" + adv_content["kg"]
             else:
@@ -111,7 +111,7 @@ for item in data:
     print(f"Summary Result: {summary.strip()}\n\n")
 
 # 保存为新的 JSON 文件
-with open('/home/NingyuanXiao/Vanna_test/attack/kg_sql_target_attack.json', 'w', encoding='utf-8') as f:
+with open('/home/NingyuanXiao/Vanna_test/attack/kg_sql_target_attack_onlykg.json', 'w', encoding='utf-8') as f:
     json.dump(data, f, ensure_ascii=False, indent=4)
 
-print("✅ 所有数据处理完毕，已保存到 kg_sql_target_attack.json。")
+print("✅ 所有数据处理完毕，已保存到 kg_sql_target_attack_onlysql.json。")
