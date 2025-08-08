@@ -6,7 +6,7 @@ class MyVanna(ChromaDB_VectorStore, Ollama):
         ChromaDB_VectorStore.__init__(self, config=config)
         Ollama.__init__(self, config=config)
 
-vn = MyVanna(config={'model': 'deepseek-r1:32b'})
+vn = MyVanna(config={'model': 'qwen2'})
 
 vn.connect_to_mysql(host='10.4.160.88', dbname='my_database', user='xny_remote', password='ny20050417', port=3306)
 

@@ -1,18 +1,18 @@
 import json
-from KG_TO_SQL_functions import generate_sql_query, generate_kg_query, summary_response
+from KG_TO_SQL_functions_refine import generate_sql_query, generate_kg_query, summary_response
 import re
 # from test import run_sql_query
 
 results = []
 
-with open('/home/NingyuanXiao/Vanna_test/user_queries_kg_sql5.txt', 'r') as f:
+with open('/home/NingyuanXiao/Vanna_test/user_queries_kg_sql_easy.txt', 'r') as f:
     user_queries = f.read().strip()  
     for user_query in user_queries.split('\n'):
         if not user_query.strip():
             continue
         print(f"Processing user query: {user_query}")
         user_query = user_query.strip()
-        KG_Query=generate_kg_query(model='deepseek-r1:32b', user_query=user_query)
+        KG_Query=generate_kg_query(model='qwen2', user_query=user_query)
         KG_Query = re.sub(r'<think>.*?</think>', '', KG_Query, flags=re.DOTALL)
 
         result = {
@@ -25,7 +25,7 @@ with open('/home/NingyuanXiao/Vanna_test/user_queries_kg_sql5.txt', 'r') as f:
         }
         results.append(result)
 
-with open('kg_sql_date.json', 'w') as f:
+with open('kg_sql_easy.json', 'w') as f:
     json.dump(results, f, ensure_ascii=False, indent=4)
 
 

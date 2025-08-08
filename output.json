@@ -1,34 +1,56 @@
 [
     {
-        "product_name":"Nothing Ear 1",
-        "release_date":"2019-03-30"
-    },
-    {
-        "product_name":"Nothing Ear 2",
-        "release_date":"2024-04-26"
-    },
-    {
-        "product_name":"Nothing Ear A",
-        "release_date":"2023-09-06"
-    },
-    {
-        "product_name":"Nothing Ear",
-        "release_date":"2021-10-17"
-    },
-    {
-        "product_name":"Nothing Ear Stick",
-        "release_date":"2022-05-17"
-    },
-    {
+        "order_date":"2024-04-15",
         "product_name":"Nothing Ear Open",
-        "release_date":"2020-11-25"
+        "price":289.0,
+        "warranty_status":"In Warranty"
     },
     {
-        "product_name":"CMF Buds Pro 2",
-        "release_date":"2023-05-29"
+        "order_date":"2024-04-15",
+        "product_name":"Nothing Phone 2",
+        "price":1999.0,
+        "warranty_status":"In Warranty"
     },
     {
+        "order_date":"2024-04-15",
         "product_name":"CMF Buds Pro",
-        "release_date":"2020-04-28"
+        "price":299.0,
+        "warranty_status":"In Warranty"
+    },
+    {
+        "order_date":"2024-04-15",
+        "product_name":"CMF Watch Pro 2",
+        "price":899.0,
+        "warranty_status":"In Warranty"
+    },
+    {
+        "order_date":"2024-04-15",
+        "product_name":"Nothing Ear A",
+        "price":329.0,
+        "warranty_status":"In Warranty"
+    },
+    {
+        "order_date":"2024-10-06",
+        "product_name":"Nothing Ear 1",
+        "price":299.0,
+        "warranty_status":"In Warranty"
+    },
+    {
+        "order_date":"2024-10-06",
+        "product_name":"Nothing Ear A",
+        "price":329.0,
+        "warranty_status":"In Warranty"
+    },
+    {
+        "order_date":"2024-10-06",
+        "product_name":"Nothing Ear",
+        "price":299.0,
+        "warranty_status":"In Warranty"
+    },
+    {
+        "order_date":"2024-10-06",
+        "product_name":"CMF Buds",
+        "price":239.0,
+        "warranty_status":"In Warranty"
     }
 ]

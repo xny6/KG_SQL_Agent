@@ -1,0 +1,802 @@
+[
+    {
+        "User Query": "Does Nothing Phone 1 supports wireless charging, and what is the release date of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Phone 1 support wireless charging?",
+        "KG Result": "Yes, the Nothing Phone 1 supports wireless charging via Qi-certified chargers, allowing convenient and efficient recharging without the need for cables. This feature provides users with a seamless charging experience that complements its advanced features and compatibility with various charging technologies.\n\n[DC] [unknown_source]\n\nReferences:\n- [DC]",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Phone 1 supports wireless charging, and what is the rating of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Phone 1 support wireless charging?",
+        "KG Result": "Yes, the Nothing Phone 1 supports wireless charging via Qi-certified chargers, allowing convenient and efficient recharging without the need for cables. This feature provides users with a seamless charging experience that complements its advanced features and compatibility with various charging technologies.\n\n[DC] [unknown_source]\n\nReferences:\n- [DC]",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Phone 1 supports wireless charging, and what is the price of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Phone 1 support wireless charging?",
+        "KG Result": "Yes, the Nothing Phone 1 supports wireless charging via Qi-certified chargers, allowing convenient and efficient recharging without the need for cables. This feature provides users with a seamless charging experience that complements its advanced features and compatibility with various charging technologies.\n\n[DC] [unknown_source]\n\nReferences:\n- [DC]",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Phone 1 supports wireless charging, and what is the weight of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Phone 1 support wireless charging?",
+        "KG Result": "Yes, the Nothing Phone 1 supports wireless charging via Qi-certified chargers, allowing convenient and efficient recharging without the need for cables. This feature provides users with a seamless charging experience that complements its advanced features and compatibility with various charging technologies.\n\n[DC] [unknown_source]\n\nReferences:\n- [DC]",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Phone 1 supports wireless charging, and what is the stock quantity of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does the Nothing Phone 1 support wireless charging?",
+        "KG Result": "The description indicates that the Nothing Phone 1 does indeed support wireless charging as one of its features. This allows users to charge their device using a compatible wireless charger without needing to connect it via a cable.\n\n**References:**\n- [DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Phone 2 supports fast charging, and what is the release date of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Phone 2 support fast charging?",
+        "KG Result": "Yes, the Nothing Phone 2 supports fast charging via compatible wired chargers, which can reduce charging time to approximately 60 minutes under optimal conditions. This enables efficient and quick recharging of the device when necessary.\n\n[KG] [unknown_source]\n\n\nReferences:\n- [KG] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Phone 2 supports fast charging, and what is the rating of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Phone 2 support fast charging?",
+        "KG Result": "Yes, the Nothing Phone 2 supports fast charging via compatible wired chargers, which can reduce charging time to approximately 60 minutes under optimal conditions. This enables efficient and quick recharging of the device when necessary.\n\n[KG] [unknown_source]\n\n\nReferences:\n- [KG] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Phone 2 supports fast charging, and what is the price of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Phone 2 support fast charging?",
+        "KG Result": "Yes, the Nothing Phone 2 supports fast charging via compatible wired chargers, which can reduce charging time to approximately 60 minutes under optimal conditions. This enables efficient and quick recharging of the device when necessary.\n\n[KG] [unknown_source]\n\n\nReferences:\n- [KG] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Phone 2 supports fast charging, and what is the weight of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Phone 2 support fast charging?",
+        "KG Result": "Yes, the Nothing Phone 2 supports fast charging via compatible wired chargers, which can reduce charging time to approximately 60 minutes under optimal conditions. This enables efficient and quick recharging of the device when necessary.\n\n[KG] [unknown_source]\n\n\nReferences:\n- [KG] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Phone 2 supports fast charging, and what is the stock quantity of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Phone 2 support fast charging?",
+        "KG Result": "Yes, the Nothing Phone 2 supports fast charging via compatible wired chargers, which can reduce charging time to approximately 60 minutes under optimal conditions. This enables efficient and quick recharging of the device when necessary.\n\n[KG] [unknown_source]\n\n\nReferences:\n- [KG] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Phone 2A supports eSIM, and what is the release date of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does the Nothing Phone 2A support eSIM?",
+        "KG Result": "Yes, according to the available data and knowledge about the Nothing Phone 2A, it supports eSIM functionality specifically in Japan. This feature allows users to access mobile data services without needing a physical SIM card when traveling abroad or utilizing the device internationally.\n\nReferences:\n[DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Phone 2A supports eSIM, and what is the rating of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does the Nothing Phone 2A support eSIM?",
+        "KG Result": "Yes, according to the available data and knowledge about the Nothing Phone 2A, it supports eSIM functionality specifically in Japan. This feature allows users to access mobile data services without needing a physical SIM card when traveling abroad or utilizing the device internationally.\n\nReferences:\n[DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Phone 2A supports eSIM, and what is the price of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does the Nothing Phone 2A support eSIM?",
+        "KG Result": "Yes, according to the available data and knowledge about the Nothing Phone 2A, it supports eSIM functionality specifically in Japan. This feature allows users to access mobile data services without needing a physical SIM card when traveling abroad or utilizing the device internationally.\n\nReferences:\n[DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Phone 2A supports eSIM, and what is the weight of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Phone 2A support eSIM?",
+        "KG Result": "The Nothing Phone 2A does not directly mention support for eSIM in its descriptions or relationships within our data base. However, it is noted that the organization provides specific support and availability related to Japan, where eSIM functionality might be available on certain devices.\n\n[DC] unknown_source\n\nTo fully confirm the capability of eSIM support for the Nothing Phone 2A, it would require a more detailed examination of its specifications or direct communication with the company.",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Phone 2A supports eSIM, and what is the stock quantity of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Phone 2A support eSIM?",
+        "KG Result": "The Nothing Phone 2A does not directly mention support for eSIM in its descriptions or relationships within our data base. However, it is noted that the organization provides specific support and availability related to Japan, where eSIM functionality might be available on certain devices.\n\n[DC] unknown_source\n\nTo fully confirm the capability of eSIM support for the Nothing Phone 2A, it would require a more detailed examination of its specifications or direct communication with the company.",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Phone 2A Plus supports face unlock, and what is the release date of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does the Nothing Phone 2A Plus support face unlock?",
+        "KG Result": "Yes, the Nothing Phone 2A Plus supports face unlock as a security feature for user authentication. This technology allows convenient and secure access to your device through facial recognition.\n\n[KG/DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Phone 2A Plus supports face unlock, and what is the rating of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Phone 2A Plus support face unlock?",
+        "KG Result": "Yes, the Nothing Phone 2A Plus supports face unlock as a security feature for user authentication on your device.\n\n[DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Phone 2A Plus supports face unlock, and what is the price of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does the Nothing Phone 2A Plus support face unlock?",
+        "KG Result": "Yes, the Nothing Phone 2A Plus supports face unlock as a security feature for user authentication. This technology allows convenient and secure access to your device through facial recognition.\n\n[KG/DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Phone 2A Plus supports face unlock, and what is the weight of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does the Nothing Phone 2A Plus support face unlock?",
+        "KG Result": "Yes, the Nothing Phone 2A Plus supports face unlock as a security feature for user authentication. This technology allows convenient and secure access to your device through facial recognition.\n\n[KG/DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Phone 2A Plus supports face unlock, and what is the stock quantity of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does the Nothing Phone 2A Plus support face unlock?",
+        "KG Result": "Yes, the Nothing Phone 2A Plus supports face unlock as a security feature for user authentication. This technology allows convenient and secure access to your device through facial recognition.\n\n[KG/DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Phone 3A supports NFC, and what is the release date of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does the Nothing Phone 3A support NFC?",
+        "KG Result": "Yes, the Nothing Phone 3A supports NFC functionality. This feature enables contactless communication and device interactions on your smartphone.\n\n[DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Phone 3A supports NFC, and what is the rating of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Phone 3A support NFC?",
+        "KG Result": "Yes, the Nothing Phone 3A supports NFC functionality. This feature allows for contactless communication and device interactions, enhancing connectivity options on your smartphone.\n\nReferences:\n[KG] [unknown_source]",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Phone 3A supports NFC, and what is the price of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Phone 3A support NFC?",
+        "KG Result": "Yes, the Nothing Phone 3A supports NFC functionality. This feature allows for contactless communication and device interactions, enhancing connectivity options on your smartphone.\n\nReferences:\n[KG] [unknown_source]",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Phone 3A supports NFC, and what is the weight of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does the Nothing Phone 3A support NFC?",
+        "KG Result": "Yes, the Nothing Phone 3A supports NFC functionality. This feature enables contactless communication and device interactions on your smartphone.\n\n[DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Phone 3A supports NFC, and what is the stock quantity of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does the Nothing Phone 3A support NFC?",
+        "KG Result": "Yes, the Nothing Phone 3A supports NFC functionality. This feature enables contactless communication and device interactions on your smartphone.\n\n[DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Phone 3A Pro supports fast charging, and what is the release date of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does the Nothing Phone 3A Pro support fast charging?",
+        "KG Result": "Yes, the Nothing Phone 3A Pro supports fast charging. This feature enables quicker battery replenishment for extended usage.\n\n[KG] [unknown_source]\n\nThis information comes from a knowledge graph entry that mentions specific features of the Nothing Phone 3A Pro, including its capability to support fast charging technology.",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Phone 3A Pro supports fast charging, and what is the rating of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does the Nothing Phone 3A Pro support fast charging?",
+        "KG Result": "Yes, the Nothing Phone 3A Pro supports fast charging. This feature enables quicker battery replenishment for extended usage.\n\n[KG] [unknown_source]\n\nThis information comes from a knowledge graph entry that mentions specific features of the Nothing Phone 3A Pro, including its capability to support fast charging technology.",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Phone 3A Pro supports fast charging, and what is the price of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does the Nothing Phone 3A Pro support fast charging?",
+        "KG Result": "Yes, the Nothing Phone 3A Pro supports fast charging. This feature enables quicker battery replenishment for extended usage.\n\n[KG] [unknown_source]\n\nThis information comes from a knowledge graph entry that mentions specific features of the Nothing Phone 3A Pro, including its capability to support fast charging technology.",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Phone 3A Pro supports fast charging, and what is the weight of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does the Nothing Phone 3A Pro support fast charging?",
+        "KG Result": "Yes, the Nothing Phone 3A Pro supports fast charging. This feature enables quicker battery replenishment for extended usage.\n\n[KG] [unknown_source]\n\nThis information comes from a knowledge graph entry that mentions specific features of the Nothing Phone 3A Pro, including its capability to support fast charging technology.",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Phone 3A Pro supports fast charging, and what is the stock quantity of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does the Nothing Phone 3A Pro support fast charging?",
+        "KG Result": "Yes, the Nothing Phone 3A Pro supports fast charging. This feature enables quicker battery replenishment for extended usage.\n\n[KG] [unknown_source]\n\nThis information comes from a knowledge graph entry that mentions specific features of the Nothing Phone 3A Pro, including its capability to support fast charging technology.",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Ear 1 supports ANC, and what is the release date of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Ear 1 support ANC?",
+        "KG Result": "Yes, the Nothing Ear(1) supports Active Noise Cancellation (ANC). This feature is designed to enhance audio quality and provide an immersive listening experience by reducing external noise. You can manage and customize your ANC settings through the Nothing X app, which allows you to adjust the noise cancellation effect according to your preferences.\n\n[KG] [unknown_source]",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Ear 1 supports ANC, and what is the rating of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Ear 1 support ANC?",
+        "KG Result": "Yes, the Nothing Ear(1) supports Active Noise Cancellation (ANC). This feature is designed to enhance audio quality and provide an immersive listening experience by reducing external noise. You can manage and customize your ANC settings through the Nothing X app, which allows you to adjust the noise cancellation effect according to your preferences.\n\n[KG] [unknown_source]",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Ear 1 supports ANC, and what is the price of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Ear 1 support ANC?",
+        "KG Result": "Yes, the Nothing Ear(1) supports Active Noise Cancellation (ANC). This feature is designed to enhance audio quality and provide an immersive listening experience by reducing external noise. You can manage and customize your ANC settings through the Nothing X app, which allows you to adjust the noise cancellation effect according to your preferences.\n\n[KG] [unknown_source]",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Ear 1 supports ANC, and what is the weight of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Ear 1 support ANC?",
+        "KG Result": "Yes, the Nothing Ear(1) supports Active Noise Cancellation (ANC). This feature is designed to enhance audio quality and provide an immersive listening experience by reducing external noise. You can manage and customize your ANC settings through the Nothing X app, which allows you to adjust the noise cancellation effect according to your preferences.\n\n[KG] [unknown_source]",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Ear 1 supports ANC, and what is the stock quantity of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Ear 1 support ANC?",
+        "KG Result": "Yes, the Nothing Ear(1) supports Active Noise Cancellation (ANC). This feature is designed to enhance audio quality and provide an immersive listening experience by reducing external noise. You can manage and customize your ANC settings through the Nothing X app, which allows you to adjust the noise cancellation effect according to your preferences.\n\n[KG] [unknown_source]",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Ear 2 supports ANC, and what is the release date of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does the Nothing Ear 2 support ANC?",
+        "KG Result": "Yes, the Nothing Ear 2 does support Active Noise Cancellation (ANC). This technology is designed to enhance listening experience in noisy environments by reducing unwanted background noise. The ANC feature allows you to customize your noise cancellation preferences through the Nothing X App, offering tailored settings that can be optimized for different scenarios and user needs.\n\n[KG] [unknown_source]\n\nAdditionally, the Nothing Ear 2 utilizes its own proprietary ANC algorithms to dynamically adjust the level of noise cancellation based on environmental conditions, providing an optimal listening experience. This means that the system is adaptable and will automatically optimize the noise reduction depending on the ambient sound level around you, ensuring a more comfortable audio experience during calls or music playback.\n\n[KG] [unknown_source]\n\nReferences:\n- [KG] [unknown_source]\n- [KG] [unknown_source]",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Ear 2 supports ANC, and what is the rating of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Ear 2 support ANC?",
+        "KG Result": "Yes, the Nothing Ear 2 supports Active Noise Cancellation (ANC). This feature enhances the listening experience by reducing external noise in various environments. The earbuds offer customizable noise cancellation modes that users can adjust according to their preferences and the environmental conditions they are in.\n\nTo further elaborate on this technology:\n1. ANC is designed to mitigate background noise up to 48dB, providing a clear audio experience.\n2. Users have the option to switch between different ANC modes for personalized noise reduction tailored to specific settings or user needs.\n3. The Nothing X app allows for management and customization of ANC settings, enhancing the overall audio quality and user experience.\n\nIt's important to note that ANC technology in headphones and earbuds like the Nothing Ear 2 aims to create an immersive listening environment by minimizing unwanted background noise during music playback or calls.\n\nReferences:\n[KG] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Ear 2 supports ANC, and what is the price of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Ear 2 support ANC?",
+        "KG Result": "Yes, the Nothing Ear 2 supports Active Noise Cancellation (ANC). This feature enhances the listening experience by reducing external noise in various environments. The earbuds offer customizable noise cancellation modes that users can adjust according to their preferences and the environmental conditions they are in.\n\nTo further elaborate on this technology:\n1. ANC is designed to mitigate background noise up to 48dB, providing a clear audio experience.\n2. Users have the option to switch between different ANC modes for personalized noise reduction tailored to specific settings or user needs.\n3. The Nothing X app allows for management and customization of ANC settings, enhancing the overall audio quality and user experience.\n\nIt's important to note that ANC technology in headphones and earbuds like the Nothing Ear 2 aims to create an immersive listening environment by minimizing unwanted background noise during music playback or calls.\n\nReferences:\n[KG] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Ear 2 supports ANC, and what is the weight of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Ear 2 support ANC?",
+        "KG Result": "Yes, the Nothing Ear 2 supports Active Noise Cancellation (ANC). This feature enhances the listening experience by reducing external noise in various environments. The earbuds offer customizable noise cancellation modes that users can adjust according to their preferences and the environmental conditions they are in.\n\nTo further elaborate on this technology:\n1. ANC is designed to mitigate background noise up to 48dB, providing a clear audio experience.\n2. Users have the option to switch between different ANC modes for personalized noise reduction tailored to specific settings or user needs.\n3. The Nothing X app allows for management and customization of ANC settings, enhancing the overall audio quality and user experience.\n\nIt's important to note that ANC technology in headphones and earbuds like the Nothing Ear 2 aims to create an immersive listening environment by minimizing unwanted background noise during music playback or calls.\n\nReferences:\n[KG] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Ear 2 supports ANC, and what is the stock quantity of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Ear 2 support ANC?",
+        "KG Result": "Yes, the Nothing Ear 2 supports Active Noise Cancellation (ANC). This feature enhances the listening experience by reducing external noise in various environments. The earbuds offer customizable noise cancellation modes that users can adjust according to their preferences and the environmental conditions they are in.\n\nTo further elaborate on this technology:\n1. ANC is designed to mitigate background noise up to 48dB, providing a clear audio experience.\n2. Users have the option to switch between different ANC modes for personalized noise reduction tailored to specific settings or user needs.\n3. The Nothing X app allows for management and customization of ANC settings, enhancing the overall audio quality and user experience.\n\nIt's important to note that ANC technology in headphones and earbuds like the Nothing Ear 2 aims to create an immersive listening environment by minimizing unwanted background noise during music playback or calls.\n\nReferences:\n[KG] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Ear A supports Microsoft swift pair, and what is the release date of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Ear A support Microsoft Swift Pair?",
+        "KG Result": "Yes, Nothing Ear A supports Microsoft Swift Pair, which enables quick and seamless device pairing with Windows 10 or later devices. [KG/DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Ear A supports Microsoft swift pair, and what is the rating of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Which wireless earbuds support Microsoft Swift Pair?",
+        "KG Result": "Multiple models of Nothing's wireless earbuds are compatible with Microsoft Swift Pair, a feature that enables rapid and straightforward device pairing with Windows devices. These include the Ear (2), CMF Buds Pro 2, as well as specific versions like Ear (stick). Microsoft Swift Pair facilitates quick connections on both compatible Android or Chrome OS devices as well as Windows PCs running Windows 10 or later.\n\nThe compatibility of these earbuds with Microsoft Swift Pair enables users to achieve swift and seamless device pairing without needing to manually initiate the Bluetooth connection process. This feature enhances user convenience by offering a faster setup experience when connecting to Windows-based systems, making it easy to pair the devices for audio streaming, calls, or other functionalities that benefit from stable Bluetooth connectivity.\n\n[DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Ear A supports Microsoft swift pair, and what is the price of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Ear A support Microsoft Swift Pair?",
+        "KG Result": "Yes, Nothing Ear A supports Microsoft Swift Pair, which enables quick and seamless device pairing with Windows 10 or later devices. [KG/DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Ear A supports Microsoft swift pair, and what is the weight of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Ear A support Microsoft Swift Pair?",
+        "KG Result": "Yes, Nothing Ear A supports Microsoft Swift Pair, which enables quick and seamless device pairing with Windows 10 or later devices. [KG/DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Ear A supports Microsoft swift pair, and what is the stock quantity of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Which devices support Microsoft Swift Pair?",
+        "KG Result": "Microsoft Swift Pair is a feature that enables fast and easy device pairing with Windows 10 or later devices, supporting compatibility across various hardware. Here are some of the devices known to support Microsoft Swift Pair:\n\n- **CMF Buds Pro 2**: These wireless earbuds allow for quick connections using Microsoft Swift Pair on compatible Windows devices.\n  \n- **Nothing Phone (2A Plus)**: This smartphone supports Microsoft Swift Pair, enabling rapid pairing with other devices for enhanced user experience.\n\n- **Buds Pro Earbuds**: These are another pair of wireless headphones that support Microsoft Swift Pair to facilitate faster Bluetooth connections on Windows systems.\n\nPlease note that specific model names and compatibility can vary; always refer to the manufacturer's guidelines or documentation for precise details regarding which devices support Microsoft Swift Pair.",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Ear supports Google fast pair, and what is the release date of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Is Google Fast Pair supported by Nothing Ear, and when was it released?",
+        "KG Result": "Google Fast Pair is indeed supported by the Nothing Ear product line. The compatibility with this feature enables quick pairing of the earbuds with devices that support Android or Chrome OS, providing an efficient setup experience for users.\n\nAs per available information, Google Fast Pair support on Nothing Ear devices would have been released alongside the introduction of these products to market, in conjunction with the integration and optimization necessary for seamless operation between the Nothing Ear lineup and compatible devices. To ensure compatibility, it's important that the Nothing Ear devices are paired within their respective device ecosystem guidelines and utilize a compatible version of Android or Chrome OS.\n\nFast Pair is designed to facilitate rapid connections by allowing Bluetooth devices to be connected without requiring manual pairing through the Bluetooth settings menu on your device. When using Fast Pair with a Nothing Ear product, simply open the Fast Pair app (if required), and it will guide you through an effortless setup process that pairs your earbuds automatically.\n\nReferences:\n- [KG] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Ear supports Google fast pair, and what is the rating of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Ear support Google Fast Pair?",
+        "KG Result": "Yes, the Nothing Ear supports Google Fast Pair as indicated in its technical descriptions and features. This feature enables quick and seamless device pairing with compatible Android devices. When utilizing Google Fast Pair, users are provided a simplified setup process that allows for rapid connection of their Nothing Ear devices to their compatible Android smartphones without needing to go through complex manual pairing procedures.\n\n**References:**\n- [KG] unknown_source\n- [DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Ear supports Google fast pair, and what is the price of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Is Nothing Ear compatible with Google fast pair?",
+        "KG Result": "Yes, the Nothing Ear is compatible with Google Fast Pair. This feature enables quick and seamless pairing with Android devices, enhancing user convenience by allowing for rapid connections to Google-enabled gadgets.\n\n**References:**\n[DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Ear supports Google fast pair, and what is the weight of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Ear support Google fast pair?",
+        "KG Result": "Yes, the Nothing Ear supports Google Fast Pair. This feature enables quick and seamless pairing with Android devices for a convenient connection experience.\n\n---\n\nReferences:\n[DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Ear supports Google fast pair, and what is the stock quantity of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Ear support Google fast pair?",
+        "KG Result": "Yes, the Nothing Ear supports Google Fast Pair. This feature enables quick and seamless pairing with Android devices for a convenient connection experience.\n\n---\n\nReferences:\n[DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Ear Stick supports custom EQ settings, and what is the release date of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Ear Stick support custom EQ settings?",
+        "KG Result": "Yes, Nothing Ear Stick supports custom EQ (Equalizer) settings. This feature allows users to tailor their audio experience according to personal preferences for a superior listening experience.\n\n[KG/DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Ear Stick supports custom EQ settings, and what is the rating of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Ear Stick support custom EQ settings?",
+        "KG Result": "Yes, Nothing Ear Stick supports custom EQ (Equalizer) settings. This feature allows users to tailor their audio experience according to personal preferences for a superior listening experience.\n\n[KG/DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Ear Stick supports custom EQ settings, and what is the price of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Ear Stick support custom Equalization (EQ) settings?",
+        "KG Result": "Yes, Nothing Ear Stick supports custom EQ settings. The ability to set custom equalizer preferences is an important feature that allows users to personalize their audio experience based on individual listening tastes and requirements. This customization option typically includes various sound profiles such as Balanced, More Bass, More Treble, and Voice modes. Users can further tailor their audio output according to personal preferences by adjusting EQ settings through the Nothing X app.\n\n[KG] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Ear Stick supports custom EQ settings, and what is the weight of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Ear Stick support custom EQ settings?",
+        "KG Result": "Yes, Nothing Ear Stick supports custom EQ (Equalizer) settings. This feature allows users to tailor their audio experience according to personal preferences for a superior listening experience.\n\n[KG/DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Ear Stick supports custom EQ settings, and what is the stock quantity of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Ear Stick support custom EQ settings?",
+        "KG Result": "Yes, Nothing Ear Stick supports custom EQ (Equalizer) settings. This feature allows users to tailor their audio experience according to personal preferences for a superior listening experience.\n\n[KG/DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Ear Open supports ANC, and what is the release date of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Ear Open support ANC?",
+        "KG Result": "Yes, according to the information available in our Knowledge Graph and Document Chunks, the Nothing Ear Open earphones do not support Active Noise Cancellation (ANC). This detail is specified under the entity \"Nothing\", where it was mentioned that the Nothing Ear Open model lacks ANC capabilities.\n\n**References**\n- [KG] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Ear Open supports ANC, and what is the rating of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Which wireless earbuds support ANC?",
+        "KG Result": "The following wireless earbuds from Nothing brand offer Active Noise Cancellation (ANC) for enhancing audio quality:\n\n1. **Nothing Ear 2** - A pair of earbuds designed for audio playback, featuring advanced features such as ANC, voice assistance support, and customizable gesture controls.\n   \n   [KG/DC] unknown_source\n\n2. **CMF Buds Pro 2** - Wireless earbuds that feature advanced noise cancellation alongside other capabilities like long battery life, customizable EQ settings, and high-quality audio performance.\n\n   [KG/DC] unknown_source\n\n3. **Nothing Ear (a)** - This type of wireless earbud integrates ANC technology to provide superior noise cancellation for improved sound quality during use.\n\n   [KG/DC] unknown_source\n\n4. **Ear (open)** - Though this model does not support ANC, it emphasizes its open design which is said to contribute better sound quality compared to other models that do offer ANC.\n\n   [KG/DC] unknown_source\n\n5. **Buds Pro** - These earbuds feature ANC with a maximum depth of up to 42dB, enhancing listening experience by reducing background noise.\n\n   [KG/DC] unknown_source\n\n6. **CMF Buds 2** - This type of wireless earbuds supports ANC that reduces external noise up to 48dB for an immersive audio experience in noisy environments.\n\n   [KG/DC] unknown_source\n\nThese products are part of the Nothing brand portfolio, known for creating technology-focused devices with innovative features such as adaptive EQ settings, smart dial controls, and improved battery performance. The ANC technology significantly improves sound quality by cancelling out ambient noise during music playback or phone calls.\n\nReferences:\n- [KG] unknown_source\n- [DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Ear Open supports ANC, and what is the price of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Ear Open support ANC?",
+        "KG Result": "Yes, according to the information available in our Knowledge Graph and Document Chunks, the Nothing Ear Open earphones do not support Active Noise Cancellation (ANC). This detail is specified under the entity \"Nothing\", where it was mentioned that the Nothing Ear Open model lacks ANC capabilities.\n\n**References**\n- [KG] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Ear Open supports ANC, and what is the weight of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Ear Open support ANC?",
+        "KG Result": "Yes, according to the information available in our Knowledge Graph and Document Chunks, the Nothing Ear Open earphones do not support Active Noise Cancellation (ANC). This detail is specified under the entity \"Nothing\", where it was mentioned that the Nothing Ear Open model lacks ANC capabilities.\n\n**References**\n- [KG] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does Nothing Ear Open supports ANC, and what is the stock quantity of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does Nothing Ear Open support ANC?",
+        "KG Result": "Yes, according to the information available in our Knowledge Graph and Document Chunks, the Nothing Ear Open earphones do not support Active Noise Cancellation (ANC). This detail is specified under the entity \"Nothing\", where it was mentioned that the Nothing Ear Open model lacks ANC capabilities.\n\n**References**\n- [KG] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Phone 1 supports Dual 4G, and what is the release date of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Phone 1 support Dual 4G?",
+        "KG Result": "Yes, according to the provided information in the Knowledge Graph (KG) and Document Chunks (DC), CMF Phone 1 supports Dual Connectivity functionality. This means it can connect to multiple devices simultaneously, enhancing versatility for users. Specifically regarding your question about Dual 4G support:\n\n- From [KG/DC] unknown_source, there is a relationship stating \"CMF Watch manufactures and provides support for the Watch Pro\", which includes dual connectivity through network settings.\n\nTo clarify further:\nDual Connectivity refers to CMF Phone 1's capability of connecting to two devices simultaneously. This can involve managing data usage across multiple SIM cards or synchronizing connections with other Bluetooth-enabled gadgets, such as earphones. The specific aspect related to Dual 4G support suggests that the phone is capable of handling dual network connections when using two SIM card slots, which could be used for different service providers.\n\nHowever, it's important to note that this information doesn't explicitly highlight whether CMF Phone 1 supports simultaneous use on both 4G networks with its dual SIM card feature. Typically, a phone supporting Dual SIM capability can facilitate seamless switching between two network carriers or use one SIM for voice calls and another for data separately. To confirm Dual 4G support specifically, one would need to verify the capabilities of CMF Phone 1 explicitly listed in its specifications.\n\nIf you're looking to ensure that your device supports simultaneous Dual 4G connections, it might be beneficial to check the detailed technical specifications or contact the manufacturer directly for confirmation.",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Phone 1 supports Dual 4G, and what is the rating of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Phone 1 support Dual 4G?",
+        "KG Result": "Yes, according to the provided information in the Knowledge Graph (KG) and Document Chunks (DC), CMF Phone 1 supports Dual Connectivity functionality. This means it can connect to multiple devices simultaneously, enhancing versatility for users. Specifically regarding your question about Dual 4G support:\n\n- From [KG/DC] unknown_source, there is a relationship stating \"CMF Watch manufactures and provides support for the Watch Pro\", which includes dual connectivity through network settings.\n\nTo clarify further:\nDual Connectivity refers to CMF Phone 1's capability of connecting to two devices simultaneously. This can involve managing data usage across multiple SIM cards or synchronizing connections with other Bluetooth-enabled gadgets, such as earphones. The specific aspect related to Dual 4G support suggests that the phone is capable of handling dual network connections when using two SIM card slots, which could be used for different service providers.\n\nHowever, it's important to note that this information doesn't explicitly highlight whether CMF Phone 1 supports simultaneous use on both 4G networks with its dual SIM card feature. Typically, a phone supporting Dual SIM capability can facilitate seamless switching between two network carriers or use one SIM for voice calls and another for data separately. To confirm Dual 4G support specifically, one would need to verify the capabilities of CMF Phone 1 explicitly listed in its specifications.\n\nIf you're looking to ensure that your device supports simultaneous Dual 4G connections, it might be beneficial to check the detailed technical specifications or contact the manufacturer directly for confirmation.",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Phone 1 supports Dual 4G, and what is the price of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Phone 1 support Dual 4G?",
+        "KG Result": "Yes, according to the provided information in the Knowledge Graph (KG) and Document Chunks (DC), CMF Phone 1 supports Dual Connectivity functionality. This means it can connect to multiple devices simultaneously, enhancing versatility for users. Specifically regarding your question about Dual 4G support:\n\n- From [KG/DC] unknown_source, there is a relationship stating \"CMF Watch manufactures and provides support for the Watch Pro\", which includes dual connectivity through network settings.\n\nTo clarify further:\nDual Connectivity refers to CMF Phone 1's capability of connecting to two devices simultaneously. This can involve managing data usage across multiple SIM cards or synchronizing connections with other Bluetooth-enabled gadgets, such as earphones. The specific aspect related to Dual 4G support suggests that the phone is capable of handling dual network connections when using two SIM card slots, which could be used for different service providers.\n\nHowever, it's important to note that this information doesn't explicitly highlight whether CMF Phone 1 supports simultaneous use on both 4G networks with its dual SIM card feature. Typically, a phone supporting Dual SIM capability can facilitate seamless switching between two network carriers or use one SIM for voice calls and another for data separately. To confirm Dual 4G support specifically, one would need to verify the capabilities of CMF Phone 1 explicitly listed in its specifications.\n\nIf you're looking to ensure that your device supports simultaneous Dual 4G connections, it might be beneficial to check the detailed technical specifications or contact the manufacturer directly for confirmation.",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Phone 1 supports Dual 4G, and what is the weight of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Phone 1 support Dual 4G?",
+        "KG Result": "Yes, according to the provided information in the Knowledge Graph (KG) and Document Chunks (DC), CMF Phone 1 supports Dual Connectivity functionality. This means it can connect to multiple devices simultaneously, enhancing versatility for users. Specifically regarding your question about Dual 4G support:\n\n- From [KG/DC] unknown_source, there is a relationship stating \"CMF Watch manufactures and provides support for the Watch Pro\", which includes dual connectivity through network settings.\n\nTo clarify further:\nDual Connectivity refers to CMF Phone 1's capability of connecting to two devices simultaneously. This can involve managing data usage across multiple SIM cards or synchronizing connections with other Bluetooth-enabled gadgets, such as earphones. The specific aspect related to Dual 4G support suggests that the phone is capable of handling dual network connections when using two SIM card slots, which could be used for different service providers.\n\nHowever, it's important to note that this information doesn't explicitly highlight whether CMF Phone 1 supports simultaneous use on both 4G networks with its dual SIM card feature. Typically, a phone supporting Dual SIM capability can facilitate seamless switching between two network carriers or use one SIM for voice calls and another for data separately. To confirm Dual 4G support specifically, one would need to verify the capabilities of CMF Phone 1 explicitly listed in its specifications.\n\nIf you're looking to ensure that your device supports simultaneous Dual 4G connections, it might be beneficial to check the detailed technical specifications or contact the manufacturer directly for confirmation.",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Phone 1 supports Dual 4G, and what is the stock quantity of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Phone 1 support Dual 4G?",
+        "KG Result": "Yes, according to the provided information in the Knowledge Graph (KG) and Document Chunks (DC), CMF Phone 1 supports Dual Connectivity functionality. This means it can connect to multiple devices simultaneously, enhancing versatility for users. Specifically regarding your question about Dual 4G support:\n\n- From [KG/DC] unknown_source, there is a relationship stating \"CMF Watch manufactures and provides support for the Watch Pro\", which includes dual connectivity through network settings.\n\nTo clarify further:\nDual Connectivity refers to CMF Phone 1's capability of connecting to two devices simultaneously. This can involve managing data usage across multiple SIM cards or synchronizing connections with other Bluetooth-enabled gadgets, such as earphones. The specific aspect related to Dual 4G support suggests that the phone is capable of handling dual network connections when using two SIM card slots, which could be used for different service providers.\n\nHowever, it's important to note that this information doesn't explicitly highlight whether CMF Phone 1 supports simultaneous use on both 4G networks with its dual SIM card feature. Typically, a phone supporting Dual SIM capability can facilitate seamless switching between two network carriers or use one SIM for voice calls and another for data separately. To confirm Dual 4G support specifically, one would need to verify the capabilities of CMF Phone 1 explicitly listed in its specifications.\n\nIf you're looking to ensure that your device supports simultaneous Dual 4G connections, it might be beneficial to check the detailed technical specifications or contact the manufacturer directly for confirmation.",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Watch Pro supports auto brightness, and what is the release date of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Watch Pro support auto brightness?",
+        "KG Result": "Yes, the CMF Watch Pro supports adjustable display settings that can be customized to suit different lighting conditions and personal preferences. This includes an automatic adjustment feature for display brightness, which adapts based on ambient light levels through an ambient light sensor (also known as an auto-brightness or auto-luminosity setting). By enabling this function, the watch will automatically adjust its screen brightness in response to varying environmental light conditions, ensuring optimal visibility while conserving battery life. \n\nTo manage and adjust display settings on your CMF Watch Pro, you may follow these steps:\n1. Open the function list by pressing a designated button.\n2. Navigate to the Settings menu.\n3. Enter the Display & Brightness interface where you can find the option for brightness adjustment or auto-brightness control.\n\nPlease note that specific procedures might vary slightly depending on the watch model and firmware version, but typically adjusting display settings is found under one of these names: \"Display settings,\" \"Brightness,\" \"Always On,\" or similar terms related to screen management. Always refer to your user guide or the CMF Watch app for the most accurate guidance tailored to your specific device.\n\n**References**\n- [KG] unknown_source\n- [DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Watch Pro supports auto brightness, and what is the rating of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Which CMF Watch Pro models support auto brightness?",
+        "KG Result": "The CMF Watch Pro includes features designed for enhanced functionality and convenience, such as automatic display adjustments that help optimize battery life while ensuring readability. One notable feature is the capability to adjust display settings based on ambient light conditions—a process known as \"auto-brightness.\" This setting enables the display's brightness level to automatically change in response to varying environmental lighting conditions.\n\nTo manage this feature:\n\n1. Navigate through the CMF Watch app or directly from your CMF Watch Pro device to access the display settings menu.\n2. Look for an option related to display brightness management, which might be labeled as \"Auto-brightness\" or something similar. This function allows the screen to adjust its intensity based on ambient light levels detected by a built-in sensor.\n\nBy enabling auto-brightness, your CMF Watch Pro will automatically become more readable in sunlight while being less bright and thus more energy-efficient in low-light conditions, providing an optimal viewing experience regardless of the environment.\n\nReferences:\n[DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Watch Pro supports auto brightness, and what is the price of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Watch Pro support auto brightness?",
+        "KG Result": "Yes, the CMF Watch Pro supports adjustable display settings that can be customized to suit different lighting conditions and personal preferences. This includes an automatic adjustment feature for display brightness, which adapts based on ambient light levels through an ambient light sensor (also known as an auto-brightness or auto-luminosity setting). By enabling this function, the watch will automatically adjust its screen brightness in response to varying environmental light conditions, ensuring optimal visibility while conserving battery life. \n\nTo manage and adjust display settings on your CMF Watch Pro, you may follow these steps:\n1. Open the function list by pressing a designated button.\n2. Navigate to the Settings menu.\n3. Enter the Display & Brightness interface where you can find the option for brightness adjustment or auto-brightness control.\n\nPlease note that specific procedures might vary slightly depending on the watch model and firmware version, but typically adjusting display settings is found under one of these names: \"Display settings,\" \"Brightness,\" \"Always On,\" or similar terms related to screen management. Always refer to your user guide or the CMF Watch app for the most accurate guidance tailored to your specific device.\n\n**References**\n- [KG] unknown_source\n- [DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Watch Pro supports auto brightness, and what is the weight of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Watch Pro support auto brightness?",
+        "KG Result": "Yes, the CMF Watch Pro supports adjustable display settings that can be customized to suit different lighting conditions and personal preferences. This includes an automatic adjustment feature for display brightness, which adapts based on ambient light levels through an ambient light sensor (also known as an auto-brightness or auto-luminosity setting). By enabling this function, the watch will automatically adjust its screen brightness in response to varying environmental light conditions, ensuring optimal visibility while conserving battery life. \n\nTo manage and adjust display settings on your CMF Watch Pro, you may follow these steps:\n1. Open the function list by pressing a designated button.\n2. Navigate to the Settings menu.\n3. Enter the Display & Brightness interface where you can find the option for brightness adjustment or auto-brightness control.\n\nPlease note that specific procedures might vary slightly depending on the watch model and firmware version, but typically adjusting display settings is found under one of these names: \"Display settings,\" \"Brightness,\" \"Always On,\" or similar terms related to screen management. Always refer to your user guide or the CMF Watch app for the most accurate guidance tailored to your specific device.\n\n**References**\n- [KG] unknown_source\n- [DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Watch Pro supports auto brightness, and what is the stock quantity of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Which CMF Watch Pro models support auto brightness?",
+        "KG Result": "The CMF Watch Pro includes features designed for enhanced functionality and convenience, such as automatic display adjustments that help optimize battery life while ensuring readability. One notable feature is the capability to adjust display settings based on ambient light conditions—a process known as \"auto-brightness.\" This setting enables the display's brightness level to automatically change in response to varying environmental lighting conditions.\n\nTo manage this feature:\n\n1. Navigate through the CMF Watch app or directly from your CMF Watch Pro device to access the display settings menu.\n2. Look for an option related to display brightness management, which might be labeled as \"Auto-brightness\" or something similar. This function allows the screen to adjust its intensity based on ambient light levels detected by a built-in sensor.\n\nBy enabling auto-brightness, your CMF Watch Pro will automatically become more readable in sunlight while being less bright and thus more energy-efficient in low-light conditions, providing an optimal viewing experience regardless of the environment.\n\nReferences:\n[DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Watch Pro 2 supports women health, and what is the release date of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Watch Pro 2 support women's health features?",
+        "KG Result": "Yes, the CMF Watch Pro 2 supports various women's health features through its interaction with the CMF Watch app. This includes:\n\n1. **Health Monitoring Setup**: The app allows for configuring and managing multiple aspects of your health monitoring on the Watch Pro 2.\n\n2. **Sleep Tracking**: It offers insights into sleep patterns, which can be crucial for understanding menstrual cycles or pregnancy-related changes in sleep.\n\n3. **Activity Record Information**: The device itself tracks activity information like calorie burn, distance traveled, steps taken, and activity intensity, providing data that can help in assessing overall health and fitness needs specific to women's health goals.\n\n4. **System Languages**: By supporting multiple languages via the app, it caters to a global user base, ensuring accessibility for women around the world.\n\nThese features are integral parts of how CMF Watch Pro 2 integrates with its associated apps to provide comprehensive health management tailored to different users' needs, including those specific to women's health.",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Watch Pro 2 supports women health, and what is the rating of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Which CMF Watch Pro 2 features support women's health monitoring, and what is its average user rating?",
+        "KG Result": "The CMF Watch Pro 2 includes several features that are particularly relevant to women’s health monitoring. These include:\n1. **Sleep Tracking**: The device can monitor sleep patterns providing insights into sleep quality and duration.\n2. **Heart Rate Monitoring**: It continuously tracks heart rate, offering alerts for abnormal heart rates during resting state or during activities.\n3. **Stress Measurement**: With the feature that calculates stress levels through specific algorithms when worn correctly and remaining still.\n\nRegarding user ratings, while no direct data is provided in our knowledge base about average user rating specifically for the CMF Watch Pro 2, you can expect that a device with features aimed at health monitoring would receive feedback on its usability, accuracy of measurements, battery life, comfort during wear, and overall satisfaction. User opinions are subjective and depend heavily on personal experiences and expectations.\n\nFor detailed reviews or average ratings, I recommend checking online platforms such as Amazon, CNET, TechRadar, or other consumer review websites where users share their experiences with specific products. These sources often aggregate multiple user reviews to provide an average rating score that might give you a better understanding of the public perception about the CMF Watch Pro 2.\n\n[KG] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Watch Pro 2 supports women health, and what is the price of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Watch Pro 2 support women's health features?",
+        "KG Result": "Yes, the CMF Watch Pro 2 supports various women's health features through its interaction with the CMF Watch app. This includes:\n\n1. **Health Monitoring Setup**: The app allows for configuring and managing multiple aspects of your health monitoring on the Watch Pro 2.\n\n2. **Sleep Tracking**: It offers insights into sleep patterns, which can be crucial for understanding menstrual cycles or pregnancy-related changes in sleep.\n\n3. **Activity Record Information**: The device itself tracks activity information like calorie burn, distance traveled, steps taken, and activity intensity, providing data that can help in assessing overall health and fitness needs specific to women's health goals.\n\n4. **System Languages**: By supporting multiple languages via the app, it caters to a global user base, ensuring accessibility for women around the world.\n\nThese features are integral parts of how CMF Watch Pro 2 integrates with its associated apps to provide comprehensive health management tailored to different users' needs, including those specific to women's health.",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Watch Pro 2 supports women health, and what is the weight of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Watch Pro 2 support women's health features, and what is its weight?",
+        "KG Result": "The CMF Watch Pro 2 supports various features that are beneficial to users' overall health, including functionality related to women's health. Women can use this smartwatch to monitor their menstrual cycles through the CMF Watch app by syncing it with the watch. This enables the tracking of periods and ovulation phases, which is particularly helpful for managing fertility or family planning.\n\nRegarding weight, the CMF Watch Pro 2 weighs approximately [KG/DC]unknown_source grams (as information regarding its exact weight was not provided). The design typically balances functionality with comfort during wear, making it suitable for daily use while tracking health metrics and receiving notifications.\n\nReferences:\n- [KG] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Watch Pro 2 supports women health, and what is the stock quantity of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Watch Pro 2 support women's health features?",
+        "KG Result": "Yes, the CMF Watch Pro 2 supports various women's health features through its interaction with the CMF Watch app. This includes:\n\n1. **Health Monitoring Setup**: The app allows for configuring and managing multiple aspects of your health monitoring on the Watch Pro 2.\n\n2. **Sleep Tracking**: It offers insights into sleep patterns, which can be crucial for understanding menstrual cycles or pregnancy-related changes in sleep.\n\n3. **Activity Record Information**: The device itself tracks activity information like calorie burn, distance traveled, steps taken, and activity intensity, providing data that can help in assessing overall health and fitness needs specific to women's health goals.\n\n4. **System Languages**: By supporting multiple languages via the app, it caters to a global user base, ensuring accessibility for women around the world.\n\nThese features are integral parts of how CMF Watch Pro 2 integrates with its associated apps to provide comprehensive health management tailored to different users' needs, including those specific to women's health.",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Buds supports fast charging, and what is the release date of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Buds support fast charging?",
+        "KG Result": "Yes, CMF Buds supports fast charging. With this feature, you can enjoy extended playback after just a few minutes of charging. For instance, CMF Buds Pro 2 enables users to achieve up to 4 hours of playback after a 10-minute charge, with additional battery life support from the charging case. This fast charging capability provides an efficient way to recharge your earbuds quickly when needed.\n\nReference: [KG/DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Buds supports fast charging, and what is the rating of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Buds support fast charging?",
+        "KG Result": "Yes, CMF Buds supports fast charging. With this feature, you can enjoy extended playback after just a few minutes of charging. For instance, CMF Buds Pro 2 enables users to achieve up to 4 hours of playback after a 10-minute charge, with additional battery life support from the charging case. This fast charging capability provides an efficient way to recharge your earbuds quickly when needed.\n\nReference: [KG/DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Buds supports fast charging, and what is the price of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Buds support fast charging?",
+        "KG Result": "Yes, CMF Buds supports fast charging. With this feature, you can enjoy extended playback after just a few minutes of charging. For instance, CMF Buds Pro 2 enables users to achieve up to 4 hours of playback after a 10-minute charge, with additional battery life support from the charging case. This fast charging capability provides an efficient way to recharge your earbuds quickly when needed.\n\nReference: [KG/DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Buds supports fast charging, and what is the weight of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Is CMF Buds compatible with fast charging, and what is its weight?",
+        "KG Result": "Yes, CMF Buds are compatible with fast charging technology, which allows for quick battery replenishment. This feature enables users to enjoy extended usage times even after short charging periods.\n\nRegarding the weight of CMF Buds, unfortunately, there's no specific information provided in the Knowledge Base about the exact weight of this product. To determine the precise weight, you would typically need to refer to the product specifications or packaging details. \n\nReferences:\n[KG/DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Buds supports fast charging, and what is the stock quantity of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Buds support fast charging?",
+        "KG Result": "Yes, CMF Buds supports fast charging. With this feature, you can enjoy extended playback after just a few minutes of charging. For instance, CMF Buds Pro 2 enables users to achieve up to 4 hours of playback after a 10-minute charge, with additional battery life support from the charging case. This fast charging capability provides an efficient way to recharge your earbuds quickly when needed.\n\nReference: [KG/DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Buds 2 supports Microsoft swift pair, and what is the release date of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Buds 2 support Microsoft Swift Pair?",
+        "KG Result": "Yes, CMF Buds 2 supports Microsoft Swift Pair. This feature enables rapid pairing with Windows devices, providing an enhanced user experience by facilitating quick and easy device connection.\n\n[KG/DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Buds 2 supports Microsoft swift pair, and what is the rating of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Buds 2 support Microsoft Swift Pair?",
+        "KG Result": "Yes, CMF Buds 2 supports Microsoft Swift Pair. This feature enables rapid pairing with Windows devices, providing an enhanced user experience by facilitating quick and easy device connection.\n\n[KG/DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Buds 2 supports Microsoft swift pair, and what is the price of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Buds 2 support Microsoft Swift Pair?",
+        "KG Result": "Yes, CMF Buds 2 supports Microsoft Swift Pair. This feature enables rapid pairing with Windows devices, providing an enhanced user experience by facilitating quick and easy device connection.\n\n[KG/DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Buds 2 supports Microsoft swift pair, and what is the weight of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Buds 2 support Microsoft Swift Pair?",
+        "KG Result": "Yes, CMF Buds 2 supports Microsoft Swift Pair. This feature enables rapid pairing with Windows devices, providing an enhanced user experience by facilitating quick and easy device connection.\n\n[KG/DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Buds 2 supports Microsoft swift pair, and what is the stock quantity of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Buds 2 support Microsoft Swift Pair?",
+        "KG Result": "Yes, CMF Buds 2 supports Microsoft Swift Pair. This feature enables rapid pairing with Windows devices, providing an enhanced user experience by facilitating quick and easy device connection.\n\n[KG/DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Buds Pro 2 supports ANC, and what is the release date of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Which wireless earbuds support ANC and have a release date?",
+        "KG Result": "The wireless earbuds that support Active Noise Cancellation (ANC) include CMF Buds 2 and Nothing Ear (a). \n\n**CMF Buds 2**, developed by eraphone, incorporates features like ANC and Spatial Audio Effect. It was introduced as a type of wireless earbud with advanced audio technologies.\n\n**Nothing Ear (a)** utilizes ANC technology to provide superior noise cancellation. This feature enhances the listening experience in various environments.\n\nBoth products were released or announced in 2025, based on the information provided by our Knowledge Graph and Document Chunks.\n\nReferences:\n- [KG] unknown_source\n- [DC] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Buds Pro 2 supports ANC, and what is the rating of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Buds Pro 2 support ANC?",
+        "KG Result": "Yes, CMF Buds Pro 2 supports Active Noise Cancellation (ANC) technology. This feature enables the earbuds to reduce background noise during use, enhancing audio quality by providing a more immersive listening experience.\n\n**References:**\n- [DC] unknown_source\n\nIf you need further details on ANC or any other features of CMF Buds Pro 2, please let me know!",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Buds Pro 2 supports ANC, and what is the price of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Buds Pro 2 support ANC?",
+        "KG Result": "Yes, CMF Buds Pro 2 supports Active Noise Cancellation (ANC) technology. This feature enables the earbuds to reduce background noise during use, enhancing audio quality by providing a more immersive listening experience.\n\n**References:**\n- [DC] unknown_source\n\nIf you need further details on ANC or any other features of CMF Buds Pro 2, please let me know!",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Buds Pro 2 supports ANC, and what is the weight of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Buds Pro 2 support ANC?",
+        "KG Result": "Yes, CMF Buds Pro 2 supports Active Noise Cancellation (ANC) technology. This feature enables the earbuds to reduce background noise during use, enhancing audio quality by providing a more immersive listening experience.\n\n**References:**\n- [DC] unknown_source\n\nIf you need further details on ANC or any other features of CMF Buds Pro 2, please let me know!",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Buds Pro 2 supports ANC, and what is the stock quantity of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Buds Pro 2 support ANC?",
+        "KG Result": "Yes, CMF Buds Pro 2 supports Active Noise Cancellation (ANC) technology. This feature enables the earbuds to reduce background noise during use, enhancing audio quality by providing a more immersive listening experience.\n\n**References:**\n- [DC] unknown_source\n\nIf you need further details on ANC or any other features of CMF Buds Pro 2, please let me know!",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Buds Pro supports wireless charging, and what is the release date of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Buds Pro support wireless charging?",
+        "KG Result": "Yes, CMF Buds Pro supports wireless charging functionality, which allows for convenient charging using Qi-certified chargers. This feature enhances usability and convenience for users by enabling contactless power transfer without the need to plug in cables.\n\nReferences:\n- [KG] unknown_source\n\nIf you have any further questions or require more information about CMF Buds Pro, feel free to ask!",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Buds Pro supports wireless charging, and what is the rating of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Buds Pro support wireless charging?",
+        "KG Result": "Yes, CMF Buds Pro supports wireless charging functionality, which allows for convenient charging using Qi-certified chargers. This feature enhances usability and convenience for users by enabling contactless power transfer without the need to plug in cables.\n\nReferences:\n- [KG] unknown_source\n\nIf you have any further questions or require more information about CMF Buds Pro, feel free to ask!",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Buds Pro supports wireless charging, and what is the price of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Buds Pro support wireless charging?",
+        "KG Result": "Yes, CMF Buds Pro supports wireless charging functionality, which allows for convenient charging using Qi-certified chargers. This feature enhances usability and convenience for users by enabling contactless power transfer without the need to plug in cables.\n\nReferences:\n- [KG] unknown_source\n\nIf you have any further questions or require more information about CMF Buds Pro, feel free to ask!",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Buds Pro supports wireless charging, and what is the weight of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Buds Pro support wireless charging?",
+        "KG Result": "Yes, CMF Buds Pro supports wireless charging functionality, which allows for convenient charging using Qi-certified chargers. This feature enhances usability and convenience for users by enabling contactless power transfer without the need to plug in cables.\n\nReferences:\n- [KG] unknown_source\n\nIf you have any further questions or require more information about CMF Buds Pro, feel free to ask!",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Buds Pro supports wireless charging, and what is the stock quantity of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Buds Pro support wireless charging?",
+        "KG Result": "Yes, CMF Buds Pro supports wireless charging functionality, which allows for convenient charging using Qi-certified chargers. This feature enhances usability and convenience for users by enabling contactless power transfer without the need to plug in cables.\n\nReferences:\n- [KG] unknown_source\n\nIf you have any further questions or require more information about CMF Buds Pro, feel free to ask!",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Neckband Pro supports custom EQ settings, and what is the release date of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Neckband Pro support custom EQ settings?",
+        "KG Result": "Yes, the CMF Neckband Pro supports customizable EQ (Equalizer) settings. To configure these settings, you can download and use the Nothing X app. This application allows for adjustments tailored to your personal listening preferences.\n\n[KG] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Neckband Pro supports custom EQ settings, and what is the rating of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Which CMF Neckband Pro supports custom EQ settings?",
+        "KG Result": "The CMF Neckband Pro that supports custom EQ (Equalizer) settings is the model developed by Nothing, as indicated in their development and manufacturing relationship within the Knowledge Graph. This feature allows users to tailor their audio experience through adjustments made using the Nothing X App.\n\n**References**\n- [KG] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Neckband Pro supports custom EQ settings, and what is the price of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Neckband Pro support custom EQ settings?",
+        "KG Result": "Yes, the CMF Neckband Pro supports customizable EQ (Equalizer) settings. To configure these settings, you can download and use the Nothing X app. This application allows for adjustments tailored to your personal listening preferences.\n\n[KG] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Neckband Pro supports custom EQ settings, and what is the weight of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Neckband Pro support custom EQ settings?",
+        "KG Result": "Yes, the CMF Neckband Pro supports customizable EQ (Equalizer) settings. To configure these settings, you can download and use the Nothing X app. This application allows for adjustments tailored to your personal listening preferences.\n\n[KG] unknown_source",
+        "Summary Result": ""
+    },
+    {
+        "User Query": "Does CMF Neckband Pro supports custom EQ settings, and what is the stock quantity of it?",
+        "SQL Query": "",
+        "SQL Result": "",
+        "KG Query": "Does CMF Neckband Pro support custom EQ settings?",
+        "KG Result": "Yes, the CMF Neckband Pro supports customizable EQ (Equalizer) settings. To configure these settings, you can download and use the Nothing X app. This application allows for adjustments tailored to your personal listening preferences.\n\n[KG] unknown_source",
+        "Summary Result": ""
+    }
+]

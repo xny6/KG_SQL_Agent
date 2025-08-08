@@ -48,9 +48,35 @@ def generate_sql_query(user_name):
     sql_template = '''Get purchase date, products, price and warranty status for {user_name}\'s order, check them in products, orders, order_items and customers tables.'''
     return sql_template.format(user_name=user_name)
 
+kg_query_prompt = '''
+        You are a helpful manager agent, who can divided the work between a SQL Agent and Knowledge Graph Agent to help the user. You will receive [User Query] and [SQL Agent Response] as input, generate [Query for Knowledge Graph Agent] as output.
+        ****Example:****
+        ***[User Query]: [My XPhone 15 Pro is randomly restarting. Is this a known issue for my specific phone, and what can I do?]
+        ***[SQL Agent Response]: {[
+        {
+            "order_date":"2025-1-13",
+            "product_name":"XPhone 15 Pro",
+            "warranty_status":"In Warranty",
+            "manufacturing_batch_id":"BATCH-X15P-2025-Q2-612"
+        },
+        {
+            "order_date":"2025-1-13",
+            "product_name":"XBook Air",
+            "warranty_status":"In Warranty",
+            "manufacturing_batch_id":"BATCH-X15P-2025-Q2-612"
+        }
+        ] }
+        ***[Query for Knowledge Graph Agent]: [Find Restart Issues related to Product 'XPhone 15 Pro', and their associated Troubleshooting Steps.]
 
+        Here is the thinking process:
+        1. Find the key element and topic in [user query], which is "XPhone 15 Pro" and "randomly restarting".
+        2. Find the key element and ignore the irrelevant elements in [SQL Agent response]. Key elements are "XPhone 15 Pro" and "In Warranty". Ignore irrelevant elements like "XBook Air".
+        3. Combine the [user query] and [SQL Agent response] to form a query for the Knowledge Graph Agent. 
+        
+        Now, do this for the following input:
+        '''
 
-def generate_kg_query(prompt, model='qwen2', host='http://localhost:11434', user_query=None, sql_agent_response=None):
+def generate_kg_query(prompt=kg_query_prompt, model='qwen2', host='http://localhost:11434', user_query=None, sql_agent_response=None):
 
 
     full_prompt = (f'''{prompt} \n\n'''
