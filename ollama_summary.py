@@ -1,6 +1,7 @@
 import requests
 import json
 import re
+from KG_TO_SQL_functions_refine import summary_response
 
 def query_ollama(model='deepseek-r1:32b', host='http://localhost:11434', user_query='', sql_answer='', kg_answer=''):
 
@@ -33,7 +34,7 @@ def query_ollama(model='deepseek-r1:32b', host='http://localhost:11434', user_qu
 
 if __name__ == "__main__":
     # 示例用法
-    with open('/home/NingyuanXiao/Vanna_test/skq_kg_1.json', 'r') as f:
+    with open('/home/NingyuanXiao/Vanna_test/sql_kg_3.json', 'r') as f:
         data = json.load(f)
     model = "deepseek-r1:32b"  # 替换为你实际使用的模型名称
     result = []
@@ -41,11 +42,11 @@ if __name__ == "__main__":
         user_query = item.get("User Query", "")
         sql_answer = item.get("SQL Result", "")
         kg_answer = item.get("KG Result", "")
-        response = query_ollama(model=model, user_query=user_query, sql_answer=sql_answer, kg_answer=kg_answer)
+        response = summary_response(model=model, user_query=user_query, sql_answer=sql_answer, kg_answer=kg_answer)
         response = re.sub(r'<think>.*?</think>', '', response, flags=re.DOTALL)
         print(f"Response: {response}")
         item["Summary Result"] = response
         result.append(item)
-    with open('/home/NingyuanXiao/Vanna_test/skq_kg_1_summary.json', 'w') as f:
+    with open('/home/NingyuanXiao/Vanna_test/sql_kg_3_summary.json', 'w') as f:
         json.dump(result, f, ensure_ascii=False, indent=4)
         

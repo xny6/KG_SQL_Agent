@@ -387,7 +387,7 @@ def run_sql_query(my_vn=vn,question=''):
 # train_vn(vn)
 # train2(vn)
 # train3(vn)
-# print(run_sql_query(vn, question='Get the name and supplier of CMF Watch Pro, Watch Pro 2, Nothing products, CMF Watch, or other devices with similar name.'))
+# print(run_sql_query(vn, question='Get the product name in return form where return date is 2025-05-12'))
 
 # vn.ask(question=question, allow_llm_to_see_data=True,visualize=False)
 # from vanna.flask import VannaFlaskApp
