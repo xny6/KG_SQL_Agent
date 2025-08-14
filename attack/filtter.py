@@ -1,8 +1,8 @@
 import json
 
 # 输入和输出文件路径
-input_file = "/home/NingyuanXiao/Vanna_test/skq_kg_1_summary.json"  # 原始JSON文件
-output_file = "/home/NingyuanXiao/Vanna_test/attack/sql_kg_without_summary.json"  # 修改后的JSON文件
+input_file = "/home/NingyuanXiao/Vanna_test/kg_sql_supplier_processed.json"  # 原始JSON文件
+output_file = "/home/NingyuanXiao/Vanna_test/attack/kg_sql_supplier_processed_without_summary.json"  # 修改后的JSON文件
 
 # 读取原始JSON文件
 with open(input_file, 'r', encoding='utf-8') as f:
