@@ -1,5 +1,20 @@
 [
     {
-        "product_name":"Nothing Ear"
+        "price":1599.0
+    },
+    {
+        "price":1999.0
+    },
+    {
+        "price":2299.0
+    },
+    {
+        "price":2499.0
+    },
+    {
+        "price":2999.0
+    },
+    {
+        "price":3699.0
     }
 ]
