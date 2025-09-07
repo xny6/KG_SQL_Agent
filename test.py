@@ -9,6 +9,7 @@ class MyVanna(ChromaDB_VectorStore, Ollama):
 vn = MyVanna(config={'model': 'qwen2'})
 
 vn.connect_to_mysql(host='10.4.160.88', dbname='my_database', user='xny_remote', password='ny20050417', port=3306)
+# vn.connect_to_mysql(host='10.7.162.54', dbname='my_database', user='xny_remote', password='ny20050417', port=3306)
 
 def train_vn(vn):
     vn.train(ddl='''

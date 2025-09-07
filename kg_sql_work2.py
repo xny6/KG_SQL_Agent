@@ -7,8 +7,8 @@ from KG_TO_SQL_functions import generate_sql_query, summary_response
 from test import run_sql_query
 
 # 文件路径
-input_file = '/home/NingyuanXiao/Vanna_test/prompt_injection_2.json'
-output_file = '/home/NingyuanXiao/Vanna_test/prompt_injection_2_processed.json'
+input_file = '/home/NingyuanXiao/Vanna_test/enhanced_prompt_injection_kg_sql_answer.json'
+output_file = '/home/NingyuanXiao/Vanna_test/enhanced_prompt_injection_kg_sql_all_processed.json'
 
 # 读取原始输入
 with open(input_file, 'r', encoding='utf-8') as f:
