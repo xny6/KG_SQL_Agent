@@ -1,20 +1,14 @@
 import json
 
 # 手动输入 JSON 文件路径（可以改成你的实际路径）
-json_files = ['/home/NingyuanXiao/Vanna_test/kg_sql_date_processed.json',
-              '/home/NingyuanXiao/Vanna_test/kg_sql_easy_processed.json',
-              '/home/NingyuanXiao/Vanna_test/kg_sql_howmany_processed.json',
-              '/home/NingyuanXiao/Vanna_test/kg_sql_price_weight_stoc.json',
-              '/home/NingyuanXiao/Vanna_test/kg_sql_rating_processed.json',
-              '/home/NingyuanXiao/Vanna_test/kg_sql_supplier_processed.json',
-              '/home/NingyuanXiao/Vanna_test/sql_kg_1_summary.json',
-              '/home/NingyuanXiao/Vanna_test/sql_kg_2_summary.json',
-              '/home/NingyuanXiao/Vanna_test/sql_kg_3_summary.json'
+json_files = ['/home/NingyuanXiao/Vanna_test/enhanced_prompt_injection_kg_sql_answer_processed.json',
+              '/home/NingyuanXiao/Vanna_test/enhanced_prompt_injection_sql_kg_1_reference_summary.json',
+              '/home/NingyuanXiao/Vanna_test/enhanced_prompt_injection_sql_kg_2_reference_summary.json'
 
 
 ]
 
-output_file = "/home/NingyuanXiao/Vanna_test/origin_data_all.json"
+output_file = "/home/NingyuanXiao/Vanna_test/enhanced_reference_all.json"
 
 merged_data = []
 

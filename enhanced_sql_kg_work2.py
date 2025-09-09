@@ -7,14 +7,14 @@ from test import run_sql_query
 
 # 文件路径
 # input_file = '/home/NingyuanXiao/Vanna_test/user_queries_sql_kg_all.txt'
-output_file = '/home/NingyuanXiao/Vanna_test/enhanced_prompt_injection_sql_kg_2_reference.json'
+output_file = '/home/NingyuanXiao/Vanna_test/enhanced_prompt_injection_sql_kg_1_reference.json'
 
 
 # 从 JSON 文件加载 user_query 和 adversarial_content，并拼接
 with open('/home/NingyuanXiao/Vanna_test/attack/enhanced_wrong_info_deepseek.json', 'r') as f:
     data = json.load(f)
     user_queries = []
-    for item in data[179:259]:
+    for item in data[259:]: 
         user_query = item.get("origin_query", "")
         adversarial_content = item.get("wrong_reference", "")
         # 拼接 adversarial_content
@@ -46,8 +46,8 @@ while True:
     for user_query in tqdm(unprocessed_queries, desc="Processing queries", unit="query"):
         print(f"正在处理: {user_query[80:]}...")  # 实时打印前80字符，避免太长
         try:
-            user_name=query_ollama_for_user_name(user_query=user_query)
-            SQL_Query = generate_sql_query(user_name)
+            date=query_ollama_for_date(user_query=user_query)
+            SQL_Query = generate_sql_query_date(date)
             SQL_Result = run_sql_query(question=SQL_Query)
             KG_Query = generate_kg_query(
                 model='deepseek-r1:32b',

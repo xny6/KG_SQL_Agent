@@ -1,13 +1,13 @@
 [
     {
-        "order_date":"2024-08-21",
-        "product_name":"CMF Buds Pro",
-        "price":299.0,
+        "order_date":"2022-04-12",
+        "product_name":"Nothing Phone 3A Pro",
+        "price":3699.0,
         "warranty_status":"In Warranty"
     },
     {
-        "order_date":"2024-08-21",
-        "product_name":"Nothing Phone 2",
+        "order_date":"2022-04-12",
+        "product_name":"CMF Phone 1",
         "price":1999.0,
         "warranty_status":"In Warranty"
     }
