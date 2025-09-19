@@ -34,7 +34,7 @@ def query_ollama(model='deepseek-r1:32b', host='http://localhost:11434', user_qu
 
 if __name__ == "__main__":
     # 示例用法
-    with open('/home/NingyuanXiao/Vanna_test/enhanced_prompt_injection_sql_kg_1_reference.json', 'r') as f:
+    with open('/home/NingyuanXiao/Vanna_test/multi_round/enhanced_sql_kg_1_answer_50.json', 'r') as f:
         data = json.load(f)
     model = "deepseek-r1:32b"  # 替换为你实际使用的模型名称
     result = []
@@ -47,11 +47,11 @@ if __name__ == "__main__":
         print(f"Response: {response}")
         item["Summary Result"] = response
         result.append(item)
-    with open('/home/NingyuanXiao/Vanna_test/enhanced_prompt_injection_sql_kg_1_reference_summary.json', 'w') as f:
+    with open('/home/NingyuanXiao/Vanna_test/multi_round/enhanced_sql_kg_1_answer_50_summary.json', 'w') as f:
         json.dump(result, f, ensure_ascii=False, indent=4)
         
 
-    with open('/home/NingyuanXiao/Vanna_test/enhanced_prompt_injection_sql_kg_2_reference.json', 'r') as f:
+    with open('/home/NingyuanXiao/Vanna_test/multi_round/enhanced_sql_kg_2_answer_50.json', 'r') as f:
         data = json.load(f)
     model = "deepseek-r1:32b"  # 替换为你实际使用的模型名称
     result = []
@@ -64,5 +64,5 @@ if __name__ == "__main__":
         print(f"Response: {response}")
         item["Summary Result"] = response
         result.append(item)
-    with open('/home/NingyuanXiao/Vanna_test/enhanced_prompt_injection_sql_kg_2_reference_summary.json', 'w') as f:
+    with open('/home/NingyuanXiao/Vanna_test/multi_round/enhanced_sql_kg_2_answer_50_summary.json', 'w') as f:
         json.dump(result, f, ensure_ascii=False, indent=4)

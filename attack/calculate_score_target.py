@@ -2,7 +2,7 @@ import json
 
 def calculate_score(input_file):
     # 目标关键词列表
-    target_keywords = ['1599']
+    target_keywords = ['1599','1599.0','1599.00']
 
     # 初始化得分
     score = 0

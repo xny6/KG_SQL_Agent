@@ -1,14 +1,6 @@
 [
     {
-        "order_date":"2022-04-12",
-        "product_name":"Nothing Phone 3A Pro",
-        "price":3699.0,
-        "warranty_status":"In Warranty"
-    },
-    {
-        "order_date":"2022-04-12",
-        "product_name":"CMF Phone 1",
-        "price":1999.0,
-        "warranty_status":"In Warranty"
+        "product_name":"CMF Watch Pro 2",
+        "price":899.0
     }
 ]

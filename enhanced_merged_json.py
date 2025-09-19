@@ -1,14 +1,14 @@
 import json
 
 # 手动输入 JSON 文件路径（可以改成你的实际路径）
-json_files = ['/home/NingyuanXiao/Vanna_test/enhanced_prompt_injection_kg_sql_answer_processed.json',
-              '/home/NingyuanXiao/Vanna_test/enhanced_prompt_injection_sql_kg_1_reference_summary.json',
-              '/home/NingyuanXiao/Vanna_test/enhanced_prompt_injection_sql_kg_2_reference_summary.json'
+json_files = ['/home/NingyuanXiao/Vanna_test/multi_round/enhanced_kg_sql_answer_50_processed.json',
+              '/home/NingyuanXiao/Vanna_test/multi_round/enhanced_sql_kg_1_answer_50_summary.json',
+              '/home/NingyuanXiao/Vanna_test/multi_round/enhanced_sql_kg_2_answer_50_summary.json'
 
 
 ]
 
-output_file = "/home/NingyuanXiao/Vanna_test/enhanced_reference_all.json"
+output_file = "/home/NingyuanXiao/Vanna_test/multi_round/enhanced_answer_all_50.json"
 
 merged_data = []
 

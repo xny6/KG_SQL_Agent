@@ -1,10 +1,11 @@
 import json
 import requests
 import re
+from tqdm import tqdm
 
 # 输入/输出文件
-input_file = "/home/NingyuanXiao/LightRAG_test/attack_final/stolen_results.json"
-output_file = "/home/NingyuanXiao/Vanna_test/attack/enhanced_wrong_answer_deepseek.json"
+input_file = "/home/NingyuanXiao/Vanna_test/multi_round/stolen_results_50.json"
+output_file = "/home/NingyuanXiao/Vanna_test/multi_round/enhanced_wrong_answer_gemma3_50.json"
 
 # Ollama API 调用函数
 def call_ollama(model: str, prompt: str) -> str:
@@ -56,7 +57,7 @@ def main():
 
     output_data = []
 
-    for item in data:
+    for item in tqdm(data, desc="生成错误回答"):
         origin_query = item.get("origin_query", "")
         injected_query = item.get("injected_query", "")
         stolen_data = item.get("stolen_data", "")
@@ -65,7 +66,7 @@ def main():
         prompt = build_prompt(origin_query, stolen_data)
 
         # 调用 Ollama API
-        wrong_answer = call_ollama("deepseek-r1:32b", prompt)
+        wrong_answer = call_ollama("gemma3:27b", prompt)
 
         wrong_answer = re.sub(r'<think>.*?</think>', '', wrong_answer, flags=re.DOTALL)
         print("生成的错误回答:", wrong_answer)
